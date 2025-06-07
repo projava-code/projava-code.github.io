@@ -1,2579 +1,2579 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://projava.github.io/</loc>
+		<loc>https://projava-code.github.io/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/read-xml-dom-parser-example/</loc>
+		<loc>https://projava-code.github.io/read-xml-dom-parser-example/</loc>
 		<lastmod>2025-06-06T12:58:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/read-xml-stax-parser-cursor-iterator/</loc>
+		<loc>https://projava-code.github.io/read-xml-stax-parser-cursor-iterator/</loc>
 		<lastmod>2025-06-06T12:58:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/sax-parser-read-xml-example/</loc>
+		<loc>https://projava-code.github.io/sax-parser-read-xml-example/</loc>
 		<lastmod>2025-06-06T12:58:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/xml-to-string-write-xml-file/</loc>
+		<loc>https://projava-code.github.io/xml-to-string-write-xml-file/</loc>
 		<lastmod>2025-06-06T12:58:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/xpath-attribute-evaluate/</loc>
+		<loc>https://projava-code.github.io/xpath-attribute-evaluate/</loc>
 		<lastmod>2025-06-06T12:58:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/xpath-check-if-xml-tag-exists/</loc>
+		<loc>https://projava-code.github.io/xpath-check-if-xml-tag-exists/</loc>
 		<lastmod>2025-06-06T12:58:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/xpath-get-attribute-value-xml/</loc>
+		<loc>https://projava-code.github.io/xpath-get-attribute-value-xml/</loc>
 		<lastmod>2025-06-06T12:58:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/xpath-namespace-resolution-example/</loc>
+		<loc>https://projava-code.github.io/xpath-namespace-resolution-example/</loc>
 		<lastmod>2025-06-06T12:58:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/get-first-4-characters/</loc>
+		<loc>https://projava-code.github.io/get-first-4-characters/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/get-last-4-characters/</loc>
+		<loc>https://projava-code.github.io/get-last-4-characters/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-find-duplicate-words-in-a-string-in-java/</loc>
+		<loc>https://projava-code.github.io/how-to-find-duplicate-words-in-a-string-in-java/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-interview-question-why-strings-are-immutable/</loc>
+		<loc>https://projava-code.github.io/java-interview-question-why-strings-are-immutable/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-split-csv-string-to-list/</loc>
+		<loc>https://projava-code.github.io/java-split-csv-string-to-list/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-compareto-method/</loc>
+		<loc>https://projava-code.github.io/java-string-compareto-method/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-concat-method-example/</loc>
+		<loc>https://projava-code.github.io/java-string-concat-method-example/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-contains-example/</loc>
+		<loc>https://projava-code.github.io/java-string-contains-example/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-endswith-method/</loc>
+		<loc>https://projava-code.github.io/java-string-endswith-method/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-indexof-method-example/</loc>
+		<loc>https://projava-code.github.io/java-string-indexof-method-example/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-intern-method-example/</loc>
+		<loc>https://projava-code.github.io/java-string-intern-method-example/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-remove-last-char/</loc>
+		<loc>https://projava-code.github.io/java-string-remove-last-char/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-replace-method/</loc>
+		<loc>https://projava-code.github.io/java-string-replace-method/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-replaceall-example/</loc>
+		<loc>https://projava-code.github.io/java-string-replaceall-example/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-replacefirst-example/</loc>
+		<loc>https://projava-code.github.io/java-string-replacefirst-example/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-split-example/</loc>
+		<loc>https://projava-code.github.io/java-string-split-example/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-startswith-example/</loc>
+		<loc>https://projava-code.github.io/java-string-startswith-example/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-substring-example/</loc>
+		<loc>https://projava-code.github.io/java-string-substring-example/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-tolowercase-method/</loc>
+		<loc>https://projava-code.github.io/java-string-tolowercase-method/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-touppercase-method/</loc>
+		<loc>https://projava-code.github.io/java-string-touppercase-method/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string/</loc>
+		<loc>https://projava-code.github.io/java-string/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java8-stringjoiner-example/</loc>
+		<loc>https://projava-code.github.io/java8-stringjoiner-example/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/left-pad-string-with-spaces-zeros/</loc>
+		<loc>https://projava-code.github.io/left-pad-string-with-spaces-zeros/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/left-right-or-center-align-string/</loc>
+		<loc>https://projava-code.github.io/left-right-or-center-align-string/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/mask-string-except-last-4-chars/</loc>
+		<loc>https://projava-code.github.io/mask-string-except-last-4-chars/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/multiline-string/</loc>
+		<loc>https://projava-code.github.io/multiline-string/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/remove-extra-whitespaces-between-words/</loc>
+		<loc>https://projava-code.github.io/remove-extra-whitespaces-between-words/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/remove-leading-trailing-whitespaces/</loc>
+		<loc>https://projava-code.github.io/remove-leading-trailing-whitespaces/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/reverse-string-using-recursion/</loc>
+		<loc>https://projava-code.github.io/reverse-string-using-recursion/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/reverse-words-in-string/</loc>
+		<loc>https://projava-code.github.io/reverse-words-in-string/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/right-pad-string-with-spaces-zeros/</loc>
+		<loc>https://projava-code.github.io/right-pad-string-with-spaces-zeros/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/split-tokenize-strings/</loc>
+		<loc>https://projava-code.github.io/split-tokenize-strings/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/string-charat-method-example/</loc>
+		<loc>https://projava-code.github.io/string-charat-method-example/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/string-comparetoignorecase-example/</loc>
+		<loc>https://projava-code.github.io/string-comparetoignorecase-example/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/string-concatenation-performance/</loc>
+		<loc>https://projava-code.github.io/string-concatenation-performance/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/string-constant-pool/</loc>
+		<loc>https://projava-code.github.io/string-constant-pool/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/string-equals-method/</loc>
+		<loc>https://projava-code.github.io/string-equals-method/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/string-equalsignorecase-method/</loc>
+		<loc>https://projava-code.github.io/string-equalsignorecase-method/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/string-hashcode-method/</loc>
+		<loc>https://projava-code.github.io/string-hashcode-method/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/string-lastindexof-method/</loc>
+		<loc>https://projava-code.github.io/string-lastindexof-method/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/text-block-formatting/</loc>
+		<loc>https://projava-code.github.io/text-block-formatting/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/unescape-html-to-string/</loc>
+		<loc>https://projava-code.github.io/unescape-html-to-string/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-properties-to-xml/</loc>
+		<loc>https://projava-code.github.io/convert-properties-to-xml/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-xml-to-properties/</loc>
+		<loc>https://projava-code.github.io/convert-xml-to-properties/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/dom-vs-sax-parser-in-java/</loc>
+		<loc>https://projava-code.github.io/dom-vs-sax-parser-in-java/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-xpath-tutorial-example/</loc>
+		<loc>https://projava-code.github.io/java-xpath-tutorial-example/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/jdom2-read-parse-xml-examples/</loc>
+		<loc>https://projava-code.github.io/jdom2-read-parse-xml-examples/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/parse-string-to-xml-dom/</loc>
+		<loc>https://projava-code.github.io/parse-string-to-xml-dom/</loc>
 		<lastmod>2025-06-06T12:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/remove-update-stream-elements/</loc>
+		<loc>https://projava-code.github.io/remove-update-stream-elements/</loc>
 		<lastmod>2025-06-06T12:58:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/stream-has-already-been-operated-upon-or-closed/</loc>
+		<loc>https://projava-code.github.io/stream-has-already-been-operated-upon-or-closed/</loc>
 		<lastmod>2025-06-06T12:58:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/stream-mapmulti-example/</loc>
+		<loc>https://projava-code.github.io/stream-mapmulti-example/</loc>
 		<lastmod>2025-06-06T12:58:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/align-text-in-columns/</loc>
+		<loc>https://projava-code.github.io/align-text-in-columns/</loc>
 		<lastmod>2025-06-06T12:58:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-int-to-string/</loc>
+		<loc>https://projava-code.github.io/convert-int-to-string/</loc>
 		<lastmod>2025-06-06T12:58:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-long-to-string/</loc>
+		<loc>https://projava-code.github.io/convert-long-to-string/</loc>
 		<lastmod>2025-06-06T12:58:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-stacktrace-to-string/</loc>
+		<loc>https://projava-code.github.io/convert-stacktrace-to-string/</loc>
 		<lastmod>2025-06-06T12:58:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-string-to-int/</loc>
+		<loc>https://projava-code.github.io/convert-string-to-int/</loc>
 		<lastmod>2025-06-06T12:58:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-string-to-long/</loc>
+		<loc>https://projava-code.github.io/convert-string-to-long/</loc>
 		<lastmod>2025-06-06T12:58:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-string-to-titlecase/</loc>
+		<loc>https://projava-code.github.io/convert-string-to-titlecase/</loc>
 		<lastmod>2025-06-06T12:58:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/escape-html-encode-string/</loc>
+		<loc>https://projava-code.github.io/escape-html-encode-string/</loc>
 		<lastmod>2025-06-06T12:58:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/find-duplicate-characters/</loc>
+		<loc>https://projava-code.github.io/find-duplicate-characters/</loc>
 		<lastmod>2025-06-06T12:58:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/float-to-string-format-decimal-points/</loc>
+		<loc>https://projava-code.github.io/float-to-string-format-decimal-points/</loc>
 		<lastmod>2025-06-06T12:58:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/format-phone-number/</loc>
+		<loc>https://projava-code.github.io/format-phone-number/</loc>
 		<lastmod>2025-06-06T12:58:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-copyonwritearraylist/</loc>
+		<loc>https://projava-code.github.io/java-copyonwritearraylist/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-hashset/</loc>
+		<loc>https://projava-code.github.io/java-hashset/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-static-keyword/</loc>
+		<loc>https://projava-code.github.io/java-static-keyword/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/transient-keyword-in-java-with-real-time-example/</loc>
+		<loc>https://projava-code.github.io/transient-keyword-in-java-with-real-time-example/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-linkedhashset/</loc>
+		<loc>https://projava-code.github.io/java-linkedhashset/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-linkedlist-class/</loc>
+		<loc>https://projava-code.github.io/java-linkedlist-class/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/groupby-sort-multiple-comparators/</loc>
+		<loc>https://projava-code.github.io/groupby-sort-multiple-comparators/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/dozer-bean-mapping-examples/</loc>
+		<loc>https://projava-code.github.io/dozer-bean-mapping-examples/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-treeset-class/</loc>
+		<loc>https://projava-code.github.io/java-treeset-class/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/linkedhashmap/</loc>
+		<loc>https://projava-code.github.io/linkedhashmap/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/rxjava-tutorial/</loc>
+		<loc>https://projava-code.github.io/rxjava-tutorial/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-suppressed-exceptions/</loc>
+		<loc>https://projava-code.github.io/java-suppressed-exceptions/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/all-garbage-collection-algorithms/</loc>
+		<loc>https://projava-code.github.io/all-garbage-collection-algorithms/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-define-path-in-java-nio/</loc>
+		<loc>https://projava-code.github.io/how-to-define-path-in-java-nio/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-nio-2-0-working-with-buffers/</loc>
+		<loc>https://projava-code.github.io/java-nio-2-0-working-with-buffers/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-memory-model/</loc>
+		<loc>https://projava-code.github.io/java-memory-model/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/revisiting-memory-management-and-garbage-collection-mechanisms-in-java/</loc>
+		<loc>https://projava-code.github.io/revisiting-memory-management-and-garbage-collection-mechanisms-in-java/</loc>
 		<lastmod>2025-06-06T13:05:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex/</loc>
+		<loc>https://projava-code.github.io/java-regex/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/match-any-set-of-characters/</loc>
+		<loc>https://projava-code.github.io/match-any-set-of-characters/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/regex-alphanumeric-characters/</loc>
+		<loc>https://projava-code.github.io/regex-alphanumeric-characters/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/regular-expressions-meta-characters/</loc>
+		<loc>https://projava-code.github.io/regular-expressions-meta-characters/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/start-end-of-string/</loc>
+		<loc>https://projava-code.github.io/start-end-of-string/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/uk-postcode-validation/</loc>
+		<loc>https://projava-code.github.io/uk-postcode-validation/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/us-postal-zip-code-validation/</loc>
+		<loc>https://projava-code.github.io/us-postal-zip-code-validation/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/word-boundary-starts-ends-with/</loc>
+		<loc>https://projava-code.github.io/word-boundary-starts-ends-with/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/custom-serialization-readobject-writeobject/</loc>
+		<loc>https://projava-code.github.io/custom-serialization-readobject-writeobject/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/externalizable-vs-serializable/</loc>
+		<loc>https://projava-code.github.io/externalizable-vs-serializable/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-deserialization-process-happen-in-java/</loc>
+		<loc>https://projava-code.github.io/how-deserialization-process-happen-in-java/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-do-deep-cloning-using-in-memory-serialization-in-java/</loc>
+		<loc>https://projava-code.github.io/how-to-do-deep-cloning-using-in-memory-serialization-in-java/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-externalizable-example/</loc>
+		<loc>https://projava-code.github.io/java-externalizable-example/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-serialization/</loc>
+		<loc>https://projava-code.github.io/java-serialization/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/object-to-string/</loc>
+		<loc>https://projava-code.github.io/object-to-string/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/serialversionuid/</loc>
+		<loc>https://projava-code.github.io/serialversionuid/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/xmlencoder-and-xmldecoder-example/</loc>
+		<loc>https://projava-code.github.io/xmlencoder-and-xmldecoder-example/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/complete-java-servlets-tutorial/</loc>
+		<loc>https://projava-code.github.io/complete-java-servlets-tutorial/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/httpservletrequestwrapper-example-read-request-body/</loc>
+		<loc>https://projava-code.github.io/httpservletrequestwrapper-example-read-request-body/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-cors-filter-example/</loc>
+		<loc>https://projava-code.github.io/java-cors-filter-example/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/collections-sort/</loc>
+		<loc>https://projava-code.github.io/collections-sort/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/comparable-comparator/</loc>
+		<loc>https://projava-code.github.io/comparable-comparator/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-array-sorting/</loc>
+		<loc>https://projava-code.github.io/java-array-sorting/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-sort-map-by-key/</loc>
+		<loc>https://projava-code.github.io/java-sort-map-by-key/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-sort-map-by-values/</loc>
+		<loc>https://projava-code.github.io/java-sort-map-by-values/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-sorting/</loc>
+		<loc>https://projava-code.github.io/java-sorting/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/sort-on-multiple-fields/</loc>
+		<loc>https://projava-code.github.io/sort-on-multiple-fields/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/sort-string-chars-alphabetically/</loc>
+		<loc>https://projava-code.github.io/sort-string-chars-alphabetically/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/stream-sort-with-null-values/</loc>
+		<loc>https://projava-code.github.io/stream-sort-with-null-values/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/collectors-groupingby/</loc>
+		<loc>https://projava-code.github.io/collectors-groupingby/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/contains-containsany-containsall/</loc>
+		<loc>https://projava-code.github.io/contains-containsany-containsall/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/create-streams/</loc>
+		<loc>https://projava-code.github.io/create-streams/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/debugging-java-streams/</loc>
+		<loc>https://projava-code.github.io/debugging-java-streams/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/filter-map-by-list-of-keys/</loc>
+		<loc>https://projava-code.github.io/filter-map-by-list-of-keys/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/filter-map-keys-values-both/</loc>
+		<loc>https://projava-code.github.io/filter-map-keys-values-both/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/filter-nested-collections/</loc>
+		<loc>https://projava-code.github.io/filter-nested-collections/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/functional-interface-tutorial/</loc>
+		<loc>https://projava-code.github.io/functional-interface-tutorial/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/generic-functional-interfaces/</loc>
+		<loc>https://projava-code.github.io/generic-functional-interfaces/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/handle-exceptions-in-stream/</loc>
+		<loc>https://projava-code.github.io/handle-exceptions-in-stream/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/iterate-over-stream-with-indices/</loc>
+		<loc>https://projava-code.github.io/iterate-over-stream-with-indices/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-streams-by-examples/</loc>
+		<loc>https://projava-code.github.io/java-streams-by-examples/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-streams-guide/</loc>
+		<loc>https://projava-code.github.io/java-streams-guide/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/primitive-type-streams/</loc>
+		<loc>https://projava-code.github.io/primitive-type-streams/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/hashtable-class/</loc>
+		<loc>https://projava-code.github.io/hashtable-class/</loc>
 		<lastmod>2025-06-06T13:05:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex-validate-limit-the-number-of-lines-in-text/</loc>
+		<loc>https://projava-code.github.io/java-regex-validate-limit-the-number-of-lines-in-text/</loc>
 		<lastmod>2025-06-06T13:05:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex-validate-limit-the-number-of-words-in-input/</loc>
+		<loc>https://projava-code.github.io/java-regex-validate-limit-the-number-of-words-in-input/</loc>
 		<lastmod>2025-06-06T13:05:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex-validate-social-security-numbers-ssn/</loc>
+		<loc>https://projava-code.github.io/java-regex-validate-social-security-numbers-ssn/</loc>
 		<lastmod>2025-06-06T13:05:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex-validate-the-minmax-length-of-input-text/</loc>
+		<loc>https://projava-code.github.io/java-regex-validate-the-minmax-length-of-input-text/</loc>
 		<lastmod>2025-06-06T13:05:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex-validate-and-format-north-american-phone-numbers/</loc>
+		<loc>https://projava-code.github.io/java-regex-validate-and-format-north-american-phone-numbers/</loc>
 		<lastmod>2025-06-06T13:05:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex-validate-credit-card-numbers/</loc>
+		<loc>https://projava-code.github.io/java-regex-validate-credit-card-numbers/</loc>
 		<lastmod>2025-06-06T13:05:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex-validate-email-address/</loc>
+		<loc>https://projava-code.github.io/java-regex-validate-email-address/</loc>
 		<lastmod>2025-06-06T13:05:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex-validate-international-phone-numbers/</loc>
+		<loc>https://projava-code.github.io/java-regex-validate-international-phone-numbers/</loc>
 		<lastmod>2025-06-06T13:05:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex-validate-international-standard-book-number-isbns/</loc>
+		<loc>https://projava-code.github.io/java-regex-validate-international-standard-book-number-isbns/</loc>
 		<lastmod>2025-06-06T13:05:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/multiple-inheritance-in-java/</loc>
+		<loc>https://projava-code.github.io/multiple-inheritance-in-java/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/object-oriented-programming/</loc>
+		<loc>https://projava-code.github.io/object-oriented-programming/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/oop-tutorials/</loc>
+		<loc>https://projava-code.github.io/oop-tutorials/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/understanding-abstraction-in-java/</loc>
+		<loc>https://projava-code.github.io/understanding-abstraction-in-java/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/what-is-polymorphism-in-java/</loc>
+		<loc>https://projava-code.github.io/what-is-polymorphism-in-java/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/calculate-factorial-in-java/</loc>
+		<loc>https://projava-code.github.io/calculate-factorial-in-java/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/dead-code-and-unreachable-code-in-java-puzzle/</loc>
+		<loc>https://projava-code.github.io/dead-code-and-unreachable-code-in-java-puzzle/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/find-missing-number-from-series/</loc>
+		<loc>https://projava-code.github.io/find-missing-number-from-series/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/fizzbuzz-solution-java/</loc>
+		<loc>https://projava-code.github.io/fizzbuzz-solution-java/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/hilo-guessing-game-in-java/</loc>
+		<loc>https://projava-code.github.io/hilo-guessing-game-in-java/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-create-an-instance-of-any-class-without-using-new-keyword/</loc>
+		<loc>https://projava-code.github.io/how-to-create-an-instance-of-any-class-without-using-new-keyword/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-detect-infinite-loop-in-linkedlist-in-java-with-example/</loc>
+		<loc>https://projava-code.github.io/how-to-detect-infinite-loop-in-linkedlist-in-java-with-example/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-reverse-string-in-java/</loc>
+		<loc>https://projava-code.github.io/how-to-reverse-string-in-java/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-puzzle-good-string-bad-string/</loc>
+		<loc>https://projava-code.github.io/java-puzzle-good-string-bad-string/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-string-palindrome-number-palindrome/</loc>
+		<loc>https://projava-code.github.io/java-string-palindrome-number-palindrome/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/puzzle-check-if-string-is-complete-contains-all-alphabets/</loc>
+		<loc>https://projava-code.github.io/puzzle-check-if-string-is-complete-contains-all-alphabets/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/puzzle-return-all-the-strings-with-the-nth-longest-length/</loc>
+		<loc>https://projava-code.github.io/puzzle-return-all-the-strings-with-the-nth-longest-length/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/canada-postal-code-validation/</loc>
+		<loc>https://projava-code.github.io/canada-postal-code-validation/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-build-regex-based-password-validator-in-java/</loc>
+		<loc>https://projava-code.github.io/how-to-build-regex-based-password-validator-in-java/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-clean-ascii-text-non-printable-chars/</loc>
+		<loc>https://projava-code.github.io/java-clean-ascii-text-non-printable-chars/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex-date-format-validation/</loc>
+		<loc>https://projava-code.github.io/java-regex-date-format-validation/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex-match-any-character-in-greek-extended-or-greek-script/</loc>
+		<loc>https://projava-code.github.io/java-regex-match-any-character-in-greek-extended-or-greek-script/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex-match-any-currency-symbol/</loc>
+		<loc>https://projava-code.github.io/java-regex-match-any-currency-symbol/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex-match-any-word-including-all-common-misspellings/</loc>
+		<loc>https://projava-code.github.io/java-regex-match-any-word-including-all-common-misspellings/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex-match-trademark-symbol/</loc>
+		<loc>https://projava-code.github.io/java-regex-match-trademark-symbol/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-regex-specific-contain-word/</loc>
+		<loc>https://projava-code.github.io/java-regex-specific-contain-word/</loc>
 		<lastmod>2025-06-06T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-runnable-vs-thread/</loc>
+		<loc>https://projava-code.github.io/java-runnable-vs-thread/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-scoped-values/</loc>
+		<loc>https://projava-code.github.io/java-scoped-values/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-thread-life-cycle-and-thread-states/</loc>
+		<loc>https://projava-code.github.io/java-thread-life-cycle-and-thread-states/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-thread-pool-executor-example/</loc>
+		<loc>https://projava-code.github.io/java-thread-pool-executor-example/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-thread-priority/</loc>
+		<loc>https://projava-code.github.io/java-thread-priority/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/killing-java-threads/</loc>
+		<loc>https://projava-code.github.io/killing-java-threads/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/local-variables-and-thread-safety/</loc>
+		<loc>https://projava-code.github.io/local-variables-and-thread-safety/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/multithreading-difference-between-lock-and-monitor/</loc>
+		<loc>https://projava-code.github.io/multithreading-difference-between-lock-and-monitor/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/newvirtualthreadpertaskexecutor-example/</loc>
+		<loc>https://projava-code.github.io/newvirtualthreadpertaskexecutor-example/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/non-blocking-thread-safe-list-concurrentlinkeddeque-example/</loc>
+		<loc>https://projava-code.github.io/non-blocking-thread-safe-list-concurrentlinkeddeque-example/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/object-vs-class-level-locking/</loc>
+		<loc>https://projava-code.github.io/object-vs-class-level-locking/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/producer-consumer-problem-using-blockingqueue/</loc>
+		<loc>https://projava-code.github.io/producer-consumer-problem-using-blockingqueue/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/restart-thread-uncaughtexceptionhandler/</loc>
+		<loc>https://projava-code.github.io/restart-thread-uncaughtexceptionhandler/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/scheduledexecutorservice/</loc>
+		<loc>https://projava-code.github.io/scheduledexecutorservice/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/semaphore-vs-reentrantlock/</loc>
+		<loc>https://projava-code.github.io/semaphore-vs-reentrantlock/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/set-get-thread-name/</loc>
+		<loc>https://projava-code.github.io/set-get-thread-name/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/sleep-vs-wait/</loc>
+		<loc>https://projava-code.github.io/sleep-vs-wait/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/structured-concurrency/</loc>
+		<loc>https://projava-code.github.io/structured-concurrency/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/synchronizedmap-vs-concurrenthashmap/</loc>
+		<loc>https://projava-code.github.io/synchronizedmap-vs-concurrenthashmap/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/thread-join/</loc>
+		<loc>https://projava-code.github.io/thread-join/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/throttling-task-submission-rate-using-threadpoolexecutor-and-semaphore/</loc>
+		<loc>https://projava-code.github.io/throttling-task-submission-rate-using-threadpoolexecutor-and-semaphore/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/virtual-threads/</loc>
+		<loc>https://projava-code.github.io/virtual-threads/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/volatile-variables-and-thread-safety/</loc>
+		<loc>https://projava-code.github.io/volatile-variables-and-thread-safety/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/wait-for-threads-to-finish/</loc>
+		<loc>https://projava-code.github.io/wait-for-threads-to-finish/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/wait-notify-and-notifyall-methods/</loc>
+		<loc>https://projava-code.github.io/wait-notify-and-notifyall-methods/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/what-is-thread-safety/</loc>
+		<loc>https://projava-code.github.io/what-is-thread-safety/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/when-and-how-to-use-thread-local-variables/</loc>
+		<loc>https://projava-code.github.io/when-and-how-to-use-thread-local-variables/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/when-to-use-countdownlatch-java-concurrency-example-tutorial/</loc>
+		<loc>https://projava-code.github.io/when-to-use-countdownlatch-java-concurrency-example-tutorial/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/writing-a-deadlock-and-resolving-in-java/</loc>
+		<loc>https://projava-code.github.io/writing-a-deadlock-and-resolving-in-java/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-nio-2-0-channels/</loc>
+		<loc>https://projava-code.github.io/java-nio-2-0-channels/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/memory-mapped-files-mappedbytebuffer/</loc>
+		<loc>https://projava-code.github.io/memory-mapped-files-mappedbytebuffer/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/nio-read-file/</loc>
+		<loc>https://projava-code.github.io/nio-read-file/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/nio-scatter-gather-vectored-io/</loc>
+		<loc>https://projava-code.github.io/nio-scatter-gather-vectored-io/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/transfer-data-between-channels/</loc>
+		<loc>https://projava-code.github.io/transfer-data-between-channels/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/association-aggregation-composition/</loc>
+		<loc>https://projava-code.github.io/association-aggregation-composition/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/encapsulation-in-java-and-its-relation-with-abstraction/</loc>
+		<loc>https://projava-code.github.io/encapsulation-in-java-and-its-relation-with-abstraction/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/exploring-interfaces-and-abstract-classes-in-java/</loc>
+		<loc>https://projava-code.github.io/exploring-interfaces-and-abstract-classes-in-java/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/extends-vs-implements/</loc>
+		<loc>https://projava-code.github.io/extends-vs-implements/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-access-modifiers/</loc>
+		<loc>https://projava-code.github.io/java-access-modifiers/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-constructors/</loc>
+		<loc>https://projava-code.github.io/java-constructors/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-inheritance/</loc>
+		<loc>https://projava-code.github.io/java-inheritance/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-instance-initializer/</loc>
+		<loc>https://projava-code.github.io/java-instance-initializer/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-instanceof/</loc>
+		<loc>https://projava-code.github.io/java-instanceof/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/method-hiding/</loc>
+		<loc>https://projava-code.github.io/method-hiding/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/method-overloading-overriding/</loc>
+		<loc>https://projava-code.github.io/method-overloading-overriding/</loc>
 		<lastmod>2025-06-06T13:06:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-use-locks-in-java-java-util-concurrent-locks-lock-tutorial-and-example/</loc>
+		<loc>https://projava-code.github.io/how-to-use-locks-in-java-java-util-concurrent-locks-lock-tutorial-and-example/</loc>
 		<lastmod>2025-06-06T13:06:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-callable-future-example/</loc>
+		<loc>https://projava-code.github.io/java-callable-future-example/</loc>
 		<lastmod>2025-06-06T13:06:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-concurrency/</loc>
+		<loc>https://projava-code.github.io/java-concurrency/</loc>
 		<lastmod>2025-06-06T13:06:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-delayqueue/</loc>
+		<loc>https://projava-code.github.io/java-delayqueue/</loc>
 		<lastmod>2025-06-06T13:06:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-fixed-size-thread-pool-executor-example/</loc>
+		<loc>https://projava-code.github.io/java-fixed-size-thread-pool-executor-example/</loc>
 		<lastmod>2025-06-06T13:06:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-illegalmonitorstateexception/</loc>
+		<loc>https://projava-code.github.io/java-illegalmonitorstateexception/</loc>
 		<lastmod>2025-06-06T13:06:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-interruptedexception/</loc>
+		<loc>https://projava-code.github.io/java-interruptedexception/</loc>
 		<lastmod>2025-06-06T13:06:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-multi-threading-evolution-and-topics/</loc>
+		<loc>https://projava-code.github.io/java-multi-threading-evolution-and-topics/</loc>
 		<lastmod>2025-06-06T13:06:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-runnable-vs-callable/</loc>
+		<loc>https://projava-code.github.io/java-runnable-vs-callable/</loc>
 		<lastmod>2025-06-06T13:06:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/easymock-tutorial/</loc>
+		<loc>https://projava-code.github.io/easymock-tutorial/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/fluent-logging-with-flogger/</loc>
+		<loc>https://projava-code.github.io/fluent-logging-with-flogger/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-override-tostring-effectively-with-tostringbuilder/</loc>
+		<loc>https://projava-code.github.io/how-to-override-tostring-effectively-with-tostringbuilder/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-aiml-chatbot-example/</loc>
+		<loc>https://projava-code.github.io/java-aiml-chatbot-example/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-web-scrapper/</loc>
+		<loc>https://projava-code.github.io/java-web-scrapper/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/jaxrs-client-httpclient-get-post/</loc>
+		<loc>https://projava-code.github.io/jaxrs-client-httpclient-get-post/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/jmeter-beginners-tutorial/</loc>
+		<loc>https://projava-code.github.io/jmeter-beginners-tutorial/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/jmh-java-microbenchmark-harness/</loc>
+		<loc>https://projava-code.github.io/jmh-java-microbenchmark-harness/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/jmockit-tutorial/</loc>
+		<loc>https://projava-code.github.io/jmockit-tutorial/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/jpastreamer-guide/</loc>
+		<loc>https://projava-code.github.io/jpastreamer-guide/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/json-simple-read-write-json-examples/</loc>
+		<loc>https://projava-code.github.io/json-simple-read-write-json-examples/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/jsonassert-tutorial/</loc>
+		<loc>https://projava-code.github.io/jsonassert-tutorial/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/jsonpath-tutorial/</loc>
+		<loc>https://projava-code.github.io/jsonpath-tutorial/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/mock-rest-api-with-wiremock/</loc>
+		<loc>https://projava-code.github.io/mock-rest-api-with-wiremock/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/mock-testing-using-powermock-with-junit-and-mockito/</loc>
+		<loc>https://projava-code.github.io/mock-testing-using-powermock-with-junit-and-mockito/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/mockwebserver-junit-webclient/</loc>
+		<loc>https://projava-code.github.io/mockwebserver-junit-webclient/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/parse-read-write-csv-opencsv/</loc>
+		<loc>https://projava-code.github.io/parse-read-write-csv-opencsv/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/poi-append-rows-to-excel/</loc>
+		<loc>https://projava-code.github.io/poi-append-rows-to-excel/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/poi-read-excel-with-sax-parser/</loc>
+		<loc>https://projava-code.github.io/poi-read-excel-with-sax-parser/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/read-generate-pdf-java-itext/</loc>
+		<loc>https://projava-code.github.io/read-generate-pdf-java-itext/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/read-write-large-excel-files/</loc>
+		<loc>https://projava-code.github.io/read-write-large-excel-files/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/readingwriting-excel-files-in-java-poi-tutorial/</loc>
+		<loc>https://projava-code.github.io/readingwriting-excel-files-in-java-poi-tutorial/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/rest-assured-http-post-and-put-examples/</loc>
+		<loc>https://projava-code.github.io/rest-assured-http-post-and-put-examples/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/rest-assured-tutorial/</loc>
+		<loc>https://projava-code.github.io/rest-assured-tutorial/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/sending-xml-request-with-rest-assured/</loc>
+		<loc>https://projava-code.github.io/sending-xml-request-with-rest-assured/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/supercsv-parse-read-write-csv/</loc>
+		<loc>https://projava-code.github.io/supercsv-parse-read-write-csv/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/xmlassert-assertions/</loc>
+		<loc>https://projava-code.github.io/xmlassert-assertions/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/xmlunit-tutorial/</loc>
+		<loc>https://projava-code.github.io/xmlunit-tutorial/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/atomicinteger-example/</loc>
+		<loc>https://projava-code.github.io/atomicinteger-example/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/best-practices-for-using-concurrenthashmap/</loc>
+		<loc>https://projava-code.github.io/best-practices-for-using-concurrenthashmap/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/binary-semaphore-tutorial-and-example/</loc>
+		<loc>https://projava-code.github.io/binary-semaphore-tutorial-and-example/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/compare-and-swap-cas-algorithm/</loc>
+		<loc>https://projava-code.github.io/compare-and-swap-cas-algorithm/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/concurrency-vs-parallelism/</loc>
+		<loc>https://projava-code.github.io/concurrency-vs-parallelism/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/control-concurrent-access-to-multiple-copies-of-a-resource-using-semaphore/</loc>
+		<loc>https://projava-code.github.io/control-concurrent-access-to-multiple-copies-of-a-resource-using-semaphore/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/create-analyze-java-thread-dumps/</loc>
+		<loc>https://projava-code.github.io/create-analyze-java-thread-dumps/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/create-start-threads/</loc>
+		<loc>https://projava-code.github.io/create-start-threads/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/creating-threads-using-java-util-concurrent-threadfactory/</loc>
+		<loc>https://projava-code.github.io/creating-threads-using-java-util-concurrent-threadfactory/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/daemon-threads/</loc>
+		<loc>https://projava-code.github.io/daemon-threads/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/difference-between-yield-and-join-in-threads-in-java/</loc>
+		<loc>https://projava-code.github.io/difference-between-yield-and-join-in-threads-in-java/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/executor-rejectedexecutionhandler/</loc>
+		<loc>https://projava-code.github.io/executor-rejectedexecutionhandler/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/executor-service-cancel-task/</loc>
+		<loc>https://projava-code.github.io/executor-service-cancel-task/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/executor-service-example/</loc>
+		<loc>https://projava-code.github.io/executor-service-example/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/executorservice-invokeall/</loc>
+		<loc>https://projava-code.github.io/executorservice-invokeall/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/executorservice-invokeany/</loc>
+		<loc>https://projava-code.github.io/executorservice-invokeany/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/executorservice-shutdown/</loc>
+		<loc>https://projava-code.github.io/executorservice-shutdown/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-use-blockingqueue-and-threadpoolexecutor-in-java/</loc>
+		<loc>https://projava-code.github.io/how-to-use-blockingqueue-and-threadpoolexecutor-in-java/</loc>
 		<lastmod>2025-06-06T13:06:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/rest-api-security-guide/</loc>
+		<loc>https://projava-code.github.io/rest-api-security-guide/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/sha-md5-file-checksum-hash/</loc>
+		<loc>https://projava-code.github.io/sha-md5-file-checksum-hash/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/tls12-sslhandshakeexception/</loc>
+		<loc>https://projava-code.github.io/tls12-sslhandshakeexception/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/windows-set-environment-variables-without-admin-access/</loc>
+		<loc>https://projava-code.github.io/windows-set-environment-variables-without-admin-access/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/abstract-keyword/</loc>
+		<loc>https://projava-code.github.io/abstract-keyword/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/final-finally-finalize/</loc>
+		<loc>https://projava-code.github.io/final-finally-finalize/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-assert/</loc>
+		<loc>https://projava-code.github.io/java-assert/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-boolean/</loc>
+		<loc>https://projava-code.github.io/java-boolean/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-synchronized/</loc>
+		<loc>https://projava-code.github.io/java-synchronized/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/strictfp-modifier/</loc>
+		<loc>https://projava-code.github.io/strictfp-modifier/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/this-vs-super/</loc>
+		<loc>https://projava-code.github.io/this-vs-super/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/yield-keyword-in-java/</loc>
+		<loc>https://projava-code.github.io/yield-keyword-in-java/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/complete-jsoup-tutorial/</loc>
+		<loc>https://projava-code.github.io/complete-jsoup-tutorial/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-html-template-to-pdf/</loc>
+		<loc>https://projava-code.github.io/convert-html-template-to-pdf/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/docker-hello-world-example/</loc>
+		<loc>https://projava-code.github.io/docker-hello-world-example/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/read-file-from-classpath/</loc>
+		<loc>https://projava-code.github.io/read-file-from-classpath/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/read-file-from-resources-folder/</loc>
+		<loc>https://projava-code.github.io/read-file-from-resources-folder/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/read-file-into-arraylist/</loc>
+		<loc>https://projava-code.github.io/read-file-into-arraylist/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/read-given-line-from-file/</loc>
+		<loc>https://projava-code.github.io/read-given-line-from-file/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/read-input-from-console/</loc>
+		<loc>https://projava-code.github.io/read-input-from-console/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/read-typesafe-input-scanner-class/</loc>
+		<loc>https://projava-code.github.io/read-typesafe-input-scanner-class/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/read-write-properties-file/</loc>
+		<loc>https://projava-code.github.io/read-write-properties-file/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/read-write-utf8-data-file/</loc>
+		<loc>https://projava-code.github.io/read-write-utf8-data-file/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/reading-large-files/</loc>
+		<loc>https://projava-code.github.io/reading-large-files/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/rename-move-file-directory/</loc>
+		<loc>https://projava-code.github.io/rename-move-file-directory/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/unzip-file-with-subdirectories/</loc>
+		<loc>https://projava-code.github.io/unzip-file-with-subdirectories/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/working-with-symbolic-links/</loc>
+		<loc>https://projava-code.github.io/working-with-symbolic-links/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/write-byte-array-to-file/</loc>
+		<loc>https://projava-code.github.io/write-byte-array-to-file/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/write-to-temporary-file/</loc>
+		<loc>https://projava-code.github.io/write-to-temporary-file/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/aes-256-encryption-decryption/</loc>
+		<loc>https://projava-code.github.io/aes-256-encryption-decryption/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/base64-file-encode-decode/</loc>
+		<loc>https://projava-code.github.io/base64-file-encode-decode/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/bypass-ssl-certificate-checking-java/</loc>
+		<loc>https://projava-code.github.io/bypass-ssl-certificate-checking-java/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-generate-secure-password-hash-md5-sha-pbkdf2-bcrypt-examples/</loc>
+		<loc>https://projava-code.github.io/how-to-generate-secure-password-hash-md5-sha-pbkdf2-bcrypt-examples/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/jwt-json-web-token/</loc>
+		<loc>https://projava-code.github.io/jwt-json-web-token/</loc>
 		<lastmod>2025-06-06T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/difference-between-io-nio/</loc>
+		<loc>https://projava-code.github.io/difference-between-io-nio/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/file-directory-size/</loc>
+		<loc>https://projava-code.github.io/file-directory-size/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/find-file-in-directory-subdirectories/</loc>
+		<loc>https://projava-code.github.io/find-file-in-directory-subdirectories/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/get-current-working-directory/</loc>
+		<loc>https://projava-code.github.io/get-current-working-directory/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/get-file-creation-timestamp/</loc>
+		<loc>https://projava-code.github.io/get-file-creation-timestamp/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/getting-filesystem-paths/</loc>
+		<loc>https://projava-code.github.io/getting-filesystem-paths/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-java-io-works-internally/</loc>
+		<loc>https://projava-code.github.io/how-java-io-works-internally/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-check-if-file-exists-in-java/</loc>
+		<loc>https://projava-code.github.io/how-to-check-if-file-exists-in-java/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-copy-directories-in-java/</loc>
+		<loc>https://projava-code.github.io/how-to-copy-directories-in-java/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-create-a-new-file-in-java/</loc>
+		<loc>https://projava-code.github.io/how-to-create-a-new-file-in-java/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-delete-the-contents-of-a-file/</loc>
+		<loc>https://projava-code.github.io/how-to-delete-the-contents-of-a-file/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/inputstream-to-outputstream/</loc>
+		<loc>https://projava-code.github.io/inputstream-to-outputstream/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/inputstream-to-string/</loc>
+		<loc>https://projava-code.github.io/inputstream-to-string/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-append-to-file/</loc>
+		<loc>https://projava-code.github.io/java-append-to-file/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-bufferedreader-example/</loc>
+		<loc>https://projava-code.github.io/java-bufferedreader-example/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-bufferedwriter-example/</loc>
+		<loc>https://projava-code.github.io/java-bufferedwriter-example/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-filefilter-example/</loc>
+		<loc>https://projava-code.github.io/java-filefilter-example/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-filenamefilter-example/</loc>
+		<loc>https://projava-code.github.io/java-filenamefilter-example/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-filereader/</loc>
+		<loc>https://projava-code.github.io/java-filereader/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-filewriter/</loc>
+		<loc>https://projava-code.github.io/java-filewriter/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-inputstreamreader/</loc>
+		<loc>https://projava-code.github.io/java-inputstreamreader/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-io/</loc>
+		<loc>https://projava-code.github.io/java-io/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-read-file-to-string-examples/</loc>
+		<loc>https://projava-code.github.io/java-read-file-to-string-examples/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-stringreader/</loc>
+		<loc>https://projava-code.github.io/java-stringreader/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-write-to-file/</loc>
+		<loc>https://projava-code.github.io/java-write-to-file/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/linenumber-reader-example/</loc>
+		<loc>https://projava-code.github.io/linenumber-reader-example/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/make-a-file-read-only-in-java/</loc>
+		<loc>https://projava-code.github.io/make-a-file-read-only-in-java/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/outputstream-to-inputstream/</loc>
+		<loc>https://projava-code.github.io/outputstream-to-inputstream/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/parse-csv-files-in-java/</loc>
+		<loc>https://projava-code.github.io/parse-csv-files-in-java/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/read-file-content-into-byte-array/</loc>
+		<loc>https://projava-code.github.io/read-file-content-into-byte-array/</loc>
 		<lastmod>2025-06-06T13:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/xmlgregoriancalendar-date-string-example/</loc>
+		<loc>https://projava-code.github.io/xmlgregoriancalendar-date-string-example/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/zoneddatetime-comparison/</loc>
+		<loc>https://projava-code.github.io/zoneddatetime-comparison/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/zoneddatetime-parse/</loc>
+		<loc>https://projava-code.github.io/zoneddatetime-parse/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/zoneddatetime-vs-offsetdatetime/</loc>
+		<loc>https://projava-code.github.io/zoneddatetime-vs-offsetdatetime/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/enum-tutorial/</loc>
+		<loc>https://projava-code.github.io/enum-tutorial/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/enum-with-multiple-values/</loc>
+		<loc>https://projava-code.github.io/enum-with-multiple-values/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/is-enum-really-best-for-singletons/</loc>
+		<loc>https://projava-code.github.io/is-enum-really-best-for-singletons/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-enum-string-example/</loc>
+		<loc>https://projava-code.github.io/java-enum-string-example/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/asynchronous-and-synchronous-exceptions-in-java/</loc>
+		<loc>https://projava-code.github.io/asynchronous-and-synchronous-exceptions-in-java/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/best-practices-for-for-exception-handling/</loc>
+		<loc>https://projava-code.github.io/best-practices-for-for-exception-handling/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/checked-exceptions-thrown-in-initializer-blocks-can-be-declared-by-the-constructors/</loc>
+		<loc>https://projava-code.github.io/checked-exceptions-thrown-in-initializer-blocks-can-be-declared-by-the-constructors/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/checked-vs-unchecked-exceptions-in-java/</loc>
+		<loc>https://projava-code.github.io/checked-vs-unchecked-exceptions-in-java/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/class-file-has-wrong-version/</loc>
+		<loc>https://projava-code.github.io/class-file-has-wrong-version/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-effectively-handle-nullpointerexception-in-java/</loc>
+		<loc>https://projava-code.github.io/how-to-effectively-handle-nullpointerexception-in-java/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/invalid-algorithm-parameter-exception/</loc>
+		<loc>https://projava-code.github.io/invalid-algorithm-parameter-exception/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/invalidkeyexception-parameters-missing/</loc>
+		<loc>https://projava-code.github.io/invalidkeyexception-parameters-missing/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-outofmemoryerror/</loc>
+		<loc>https://projava-code.github.io/java-outofmemoryerror/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/jmh-error-unable-to-find-the-resource-meta-inf-benchmarklist/</loc>
+		<loc>https://projava-code.github.io/jmh-error-unable-to-find-the-resource-meta-inf-benchmarklist/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/selenide-illegalargumentexception-failed-to-create-folders/</loc>
+		<loc>https://projava-code.github.io/selenide-illegalargumentexception-failed-to-create-folders/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/solved-java-lang-classnotfoundexception-org-apache-commons-fileupload-fileitemfactory/</loc>
+		<loc>https://projava-code.github.io/solved-java-lang-classnotfoundexception-org-apache-commons-fileupload-fileitemfactory/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/solved-java-lang-illegalargumentexception-taglib-definition-not-consistent-with-specification-version/</loc>
+		<loc>https://projava-code.github.io/solved-java-lang-illegalargumentexception-taglib-definition-not-consistent-with-specification-version/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/solved-java-lang-illegalstateexception-no-match-found-while-using-regex-named-groups/</loc>
+		<loc>https://projava-code.github.io/solved-java-lang-illegalstateexception-no-match-found-while-using-regex-named-groups/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/solved-java-lang-incompatibleclasschangeerror-implementing-class/</loc>
+		<loc>https://projava-code.github.io/solved-java-lang-incompatibleclasschangeerror-implementing-class/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/solved-the-superclass-javax-servlet-http-httpservlet-was-not-found-on-the-java-build-path-in-eclipse/</loc>
+		<loc>https://projava-code.github.io/solved-the-superclass-javax-servlet-http-httpservlet-was-not-found-on-the-java-build-path-in-eclipse/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/this-version-of-chromedriver-only-supports-chrome-version/</loc>
+		<loc>https://projava-code.github.io/this-version-of-chromedriver-only-supports-chrome-version/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/throw-vs-throws/</loc>
+		<loc>https://projava-code.github.io/throw-vs-throws/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/try-catch-finally/</loc>
+		<loc>https://projava-code.github.io/try-catch-finally/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/break-keyword/</loc>
+		<loc>https://projava-code.github.io/break-keyword/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/continue-keyword-statement-in-java/</loc>
+		<loc>https://projava-code.github.io/continue-keyword-statement-in-java/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/control-flow-statements/</loc>
+		<loc>https://projava-code.github.io/control-flow-statements/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/do-while-loop-in-java/</loc>
+		<loc>https://projava-code.github.io/do-while-loop-in-java/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/enhanced-for-each-loop-in-java/</loc>
+		<loc>https://projava-code.github.io/enhanced-for-each-loop-in-java/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/for-loop-in-java/</loc>
+		<loc>https://projava-code.github.io/for-loop-in-java/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/if-else-statement-in-java/</loc>
+		<loc>https://projava-code.github.io/if-else-statement-in-java/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/labeled-statements-in-java/</loc>
+		<loc>https://projava-code.github.io/labeled-statements-in-java/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/switch-statement-in-java/</loc>
+		<loc>https://projava-code.github.io/switch-statement-in-java/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/while-loop-in-java/</loc>
+		<loc>https://projava-code.github.io/while-loop-in-java/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/complete-java-generics-tutorial/</loc>
+		<loc>https://projava-code.github.io/complete-java-generics-tutorial/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-generics-what-is-pecs-producer-extends-consumer-super/</loc>
+		<loc>https://projava-code.github.io/java-generics-what-is-pecs-producer-extends-consumer-super/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/check-empty-directory/</loc>
+		<loc>https://projava-code.github.io/check-empty-directory/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-reader-inputstream/</loc>
+		<loc>https://projava-code.github.io/convert-reader-inputstream/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-string-to-inputstream/</loc>
+		<loc>https://projava-code.github.io/convert-string-to-inputstream/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/copy-files-in-java/</loc>
+		<loc>https://projava-code.github.io/copy-files-in-java/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/count-file-lines/</loc>
+		<loc>https://projava-code.github.io/count-file-lines/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/create-a-temporary-file-in-java/</loc>
+		<loc>https://projava-code.github.io/create-a-temporary-file-in-java/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/create-directories/</loc>
+		<loc>https://projava-code.github.io/create-directories/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/create-password-protected-zip/</loc>
+		<loc>https://projava-code.github.io/create-password-protected-zip/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/delete-directory-recursively/</loc>
+		<loc>https://projava-code.github.io/delete-directory-recursively/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/delete-file-directory/</loc>
+		<loc>https://projava-code.github.io/delete-file-directory/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/delete-temporary-file/</loc>
+		<loc>https://projava-code.github.io/delete-temporary-file/</loc>
 		<lastmod>2025-06-06T13:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-locale-api-examples/</loc>
+		<loc>https://projava-code.github.io/java-locale-api-examples/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-localtime/</loc>
+		<loc>https://projava-code.github.io/java-localtime/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-time-localdate-class/</loc>
+		<loc>https://projava-code.github.io/java-time-localdate-class/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java8-datetimeformatter-example/</loc>
+		<loc>https://projava-code.github.io/java8-datetimeformatter-example/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java8-next-previous-date/</loc>
+		<loc>https://projava-code.github.io/java8-next-previous-date/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java8-period/</loc>
+		<loc>https://projava-code.github.io/java8-period/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java8-temporal-adjusters/</loc>
+		<loc>https://projava-code.github.io/java8-temporal-adjusters/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/localdate-format-example/</loc>
+		<loc>https://projava-code.github.io/localdate-format-example/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/localdate-localdatetime-conversions/</loc>
+		<loc>https://projava-code.github.io/localdate-localdatetime-conversions/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/localdate-parse-string/</loc>
+		<loc>https://projava-code.github.io/localdate-parse-string/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/localdate-to-date/</loc>
+		<loc>https://projava-code.github.io/localdate-to-date/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/localdate-to-sql-date/</loc>
+		<loc>https://projava-code.github.io/localdate-to-sql-date/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/localdate-zoneddatetime-conversion/</loc>
+		<loc>https://projava-code.github.io/localdate-zoneddatetime-conversion/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/localdatetime-parse/</loc>
+		<loc>https://projava-code.github.io/localdatetime-parse/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/localdatetime-to-date/</loc>
+		<loc>https://projava-code.github.io/localdatetime-to-date/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/localdatetime-to-zoneddatetime/</loc>
+		<loc>https://projava-code.github.io/localdatetime-to-zoneddatetime/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/locale-based-date-formatting/</loc>
+		<loc>https://projava-code.github.io/locale-based-date-formatting/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/localtime-to-sql-time/</loc>
+		<loc>https://projava-code.github.io/localtime-to-sql-time/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/location-based-currency-formatting-in-java/</loc>
+		<loc>https://projava-code.github.io/location-based-currency-formatting-in-java/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/parse-string-to-date-time-utc-gmt/</loc>
+		<loc>https://projava-code.github.io/parse-string-to-date-time-utc-gmt/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/resolverstyle-strict-date-parsing/</loc>
+		<loc>https://projava-code.github.io/resolverstyle-strict-date-parsing/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/setting-jvm-timezone/</loc>
+		<loc>https://projava-code.github.io/setting-jvm-timezone/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/split-date-time-range-into-intervals/</loc>
+		<loc>https://projava-code.github.io/split-date-time-range-into-intervals/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/start-and-end-of-day/</loc>
+		<loc>https://projava-code.github.io/start-and-end-of-day/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/stopwatch-example/</loc>
+		<loc>https://projava-code.github.io/stopwatch-example/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/strict-date-validation-simpledateformat-setlenient/</loc>
+		<loc>https://projava-code.github.io/strict-date-validation-simpledateformat-setlenient/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/supported-zone-ids-offsets/</loc>
+		<loc>https://projava-code.github.io/supported-zone-ids-offsets/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/temporalquery/</loc>
+		<loc>https://projava-code.github.io/temporalquery/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/zoneddatetime-class/</loc>
+		<loc>https://projava-code.github.io/zoneddatetime-class/</loc>
 		<lastmod>2025-06-06T13:06:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-between-month-name-and-number/</loc>
+		<loc>https://projava-code.github.io/convert-between-month-name-and-number/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-date-between-timezones/</loc>
+		<loc>https://projava-code.github.io/convert-date-between-timezones/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-date-time-to-est-est5edt/</loc>
+		<loc>https://projava-code.github.io/convert-date-time-to-est-est5edt/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-instant-to-local-date-time/</loc>
+		<loc>https://projava-code.github.io/convert-instant-to-local-date-time/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/current-date-time/</loc>
+		<loc>https://projava-code.github.io/current-date-time/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/current-quarter-start-end/</loc>
+		<loc>https://projava-code.github.io/current-quarter-start-end/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/date-format-with-day-period/</loc>
+		<loc>https://projava-code.github.io/date-format-with-day-period/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/date-validation/</loc>
+		<loc>https://projava-code.github.io/date-validation/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/dates-between-two-dates/</loc>
+		<loc>https://projava-code.github.io/dates-between-two-dates/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/display-localized-timestamps/</loc>
+		<loc>https://projava-code.github.io/display-localized-timestamps/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/display-name-of-week-day/</loc>
+		<loc>https://projava-code.github.io/display-name-of-week-day/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/execution-elapsed-time/</loc>
+		<loc>https://projava-code.github.io/execution-elapsed-time/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/find-dayofweek/</loc>
+		<loc>https://projava-code.github.io/find-dayofweek/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/finding-day-of-week/</loc>
+		<loc>https://projava-code.github.io/finding-day-of-week/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/first-last-day-of-week-month-year/</loc>
+		<loc>https://projava-code.github.io/first-last-day-of-week-month-year/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/format-localdatetime-to-string/</loc>
+		<loc>https://projava-code.github.io/format-localdatetime-to-string/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/format-millis-to-hh-mm-ss/</loc>
+		<loc>https://projava-code.github.io/format-millis-to-hh-mm-ss/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/format-time-12-hours-pattern/</loc>
+		<loc>https://projava-code.github.io/format-time-12-hours-pattern/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/format-xmlgregoriancalendar-to-date-pattern/</loc>
+		<loc>https://projava-code.github.io/format-xmlgregoriancalendar-to-date-pattern/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/format-zoneddatetime/</loc>
+		<loc>https://projava-code.github.io/format-zoneddatetime/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/get-current-timestamp/</loc>
+		<loc>https://projava-code.github.io/get-current-timestamp/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/get-elapsed-time-since-midnight/</loc>
+		<loc>https://projava-code.github.io/get-elapsed-time-since-midnight/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/get-year-month-day-from-date/</loc>
+		<loc>https://projava-code.github.io/get-year-month-day-from-date/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/guides-java-date-time/</loc>
+		<loc>https://projava-code.github.io/guides-java-date-time/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-get-current-user-locale-in-java/</loc>
+		<loc>https://projava-code.github.io/how-to-get-current-user-locale-in-java/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/intro-to-date-time-api/</loc>
+		<loc>https://projava-code.github.io/intro-to-date-time-api/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-date-examples/</loc>
+		<loc>https://projava-code.github.io/java-date-examples/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-date-formatting/</loc>
+		<loc>https://projava-code.github.io/java-date-formatting/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-instant-to-zoneddatetime/</loc>
+		<loc>https://projava-code.github.io/java-instant-to-zoneddatetime/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-localdatetime-class/</loc>
+		<loc>https://projava-code.github.io/java-localdatetime-class/</loc>
 		<lastmod>2025-06-06T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-spliterator/</loc>
+		<loc>https://projava-code.github.io/java-spliterator/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-submap/</loc>
+		<loc>https://projava-code.github.io/java-submap/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-treemap-vs-hashmap/</loc>
+		<loc>https://projava-code.github.io/java-treemap-vs-hashmap/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-weakhashmap/</loc>
+		<loc>https://projava-code.github.io/java-weakhashmap/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/list-unsupported-operation-exception/</loc>
+		<loc>https://projava-code.github.io/list-unsupported-operation-exception/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/performance-comparison-looping-a-list/</loc>
+		<loc>https://projava-code.github.io/performance-comparison-looping-a-list/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/synchronousqueue-class/</loc>
+		<loc>https://projava-code.github.io/synchronousqueue-class/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/transferqueue-linkedtransferqueue/</loc>
+		<loc>https://projava-code.github.io/transferqueue-linkedtransferqueue/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/treemap-class/</loc>
+		<loc>https://projava-code.github.io/treemap-class/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/add-days-months-years/</loc>
+		<loc>https://projava-code.github.io/add-days-months-years/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/add-subtract-business-days/</loc>
+		<loc>https://projava-code.github.io/add-subtract-business-days/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/add-subtract-hours-minutes-seconds/</loc>
+		<loc>https://projava-code.github.io/add-subtract-hours-minutes-seconds/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/calculate-business-days/</loc>
+		<loc>https://projava-code.github.io/calculate-business-days/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/calculate-days-between-dates/</loc>
+		<loc>https://projava-code.github.io/calculate-days-between-dates/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/calculate-difference-between-two-dates-in-java/</loc>
+		<loc>https://projava-code.github.io/calculate-difference-between-two-dates-in-java/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/calculate-weeks-between-two-dates/</loc>
+		<loc>https://projava-code.github.io/calculate-weeks-between-two-dates/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/check-leap-year/</loc>
+		<loc>https://projava-code.github.io/check-leap-year/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/check-weekend/</loc>
+		<loc>https://projava-code.github.io/check-weekend/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/compare-dates/</loc>
+		<loc>https://projava-code.github.io/compare-dates/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/compare-localdates/</loc>
+		<loc>https://projava-code.github.io/compare-localdates/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/compare-localdatetime/</loc>
+		<loc>https://projava-code.github.io/compare-localdatetime/</loc>
 		<lastmod>2025-06-06T13:06:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-iterator-works-in-java/</loc>
+		<loc>https://projava-code.github.io/how-iterator-works-in-java/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/into-to-java-collection/</loc>
+		<loc>https://projava-code.github.io/into-to-java-collection/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/invert-java-map/</loc>
+		<loc>https://projava-code.github.io/invert-java-map/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/iterator-listiterator-vs-spliterator/</loc>
+		<loc>https://projava-code.github.io/iterator-listiterator-vs-spliterator/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-arrayblockingqueue/</loc>
+		<loc>https://projava-code.github.io/java-arrayblockingqueue/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-arraydeque/</loc>
+		<loc>https://projava-code.github.io/java-arraydeque/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-collections/</loc>
+		<loc>https://projava-code.github.io/java-collections/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-comparable-interface/</loc>
+		<loc>https://projava-code.github.io/java-comparable-interface/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-comparator/</loc>
+		<loc>https://projava-code.github.io/java-comparator/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-concurrentmap/</loc>
+		<loc>https://projava-code.github.io/java-concurrentmap/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-copyonwritearrayset/</loc>
+		<loc>https://projava-code.github.io/java-copyonwritearrayset/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-enummap/</loc>
+		<loc>https://projava-code.github.io/java-enummap/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-identityhashmap/</loc>
+		<loc>https://projava-code.github.io/java-identityhashmap/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-immutable-and-unmodifiable-maps/</loc>
+		<loc>https://projava-code.github.io/java-immutable-and-unmodifiable-maps/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-iterator/</loc>
+		<loc>https://projava-code.github.io/java-iterator/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-listiterator/</loc>
+		<loc>https://projava-code.github.io/java-listiterator/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-priorityblockingqueue/</loc>
+		<loc>https://projava-code.github.io/java-priorityblockingqueue/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-priorityqueue/</loc>
+		<loc>https://projava-code.github.io/java-priorityqueue/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-queue-interface/</loc>
+		<loc>https://projava-code.github.io/java-queue-interface/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/merge-two-hashmaps/</loc>
+		<loc>https://projava-code.github.io/merge-two-hashmaps/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/performance-comparison-of-different-ways-to-iterate-over-hashmap/</loc>
+		<loc>https://projava-code.github.io/performance-comparison-of-different-ways-to-iterate-over-hashmap/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/shallow-deep-copy-hashmap/</loc>
+		<loc>https://projava-code.github.io/shallow-deep-copy-hashmap/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/smallest-largest-value-in-map/</loc>
+		<loc>https://projava-code.github.io/smallest-largest-value-in-map/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/synchronize-hashmap/</loc>
+		<loc>https://projava-code.github.io/synchronize-hashmap/</loc>
 		<lastmod>2025-06-06T13:06:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-clone-deep-copy/</loc>
+		<loc>https://projava-code.github.io/arraylist-clone-deep-copy/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/assert-two-equal-lists-ignoring-order/</loc>
+		<loc>https://projava-code.github.io/assert-two-equal-lists-ignoring-order/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/check-arraylist-empty/</loc>
+		<loc>https://projava-code.github.io/check-arraylist-empty/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/compare-two-arraylists/</loc>
+		<loc>https://projava-code.github.io/compare-two-arraylists/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-arraylist-to-array/</loc>
+		<loc>https://projava-code.github.io/convert-arraylist-to-array/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-linkedlist-arraylist/</loc>
+		<loc>https://projava-code.github.io/convert-linkedlist-arraylist/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/empty-clear-arraylist/</loc>
+		<loc>https://projava-code.github.io/empty-clear-arraylist/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/flatten-nested-lists/</loc>
+		<loc>https://projava-code.github.io/flatten-nested-lists/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/hashset-to-arraylist/</loc>
+		<loc>https://projava-code.github.io/hashset-to-arraylist/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/initialize-arraylist/</loc>
+		<loc>https://projava-code.github.io/initialize-arraylist/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/initialize-java-list-in-one-line/</loc>
+		<loc>https://projava-code.github.io/initialize-java-list-in-one-line/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/iterate-through-arraylist/</loc>
+		<loc>https://projava-code.github.io/iterate-through-arraylist/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-arraylist/</loc>
+		<loc>https://projava-code.github.io/java-arraylist/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-list/</loc>
+		<loc>https://projava-code.github.io/java-list/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/linkedlist-vs-arraylist/</loc>
+		<loc>https://projava-code.github.io/linkedlist-vs-arraylist/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/merge-arraylists/</loc>
+		<loc>https://projava-code.github.io/merge-arraylists/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/remove-all-occurrences-from-list/</loc>
+		<loc>https://projava-code.github.io/remove-all-occurrences-from-list/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/remove-duplicate-elements/</loc>
+		<loc>https://projava-code.github.io/remove-duplicate-elements/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/remove-element-from-arraylist/</loc>
+		<loc>https://projava-code.github.io/remove-element-from-arraylist/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/replace-element-arraylist/</loc>
+		<loc>https://projava-code.github.io/replace-element-arraylist/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/serialize-deserialize-arraylist/</loc>
+		<loc>https://projava-code.github.io/serialize-deserialize-arraylist/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/sorting-ascending-descending/</loc>
+		<loc>https://projava-code.github.io/sorting-ascending-descending/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/swap-two-elements-arraylist/</loc>
+		<loc>https://projava-code.github.io/swap-two-elements-arraylist/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/synchronize-arraylist/</loc>
+		<loc>https://projava-code.github.io/synchronize-arraylist/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/blockingqueue-drainto/</loc>
+		<loc>https://projava-code.github.io/blockingqueue-drainto/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/case-insensitive-maps/</loc>
+		<loc>https://projava-code.github.io/case-insensitive-maps/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/collect-stream-into-immutable-collection/</loc>
+		<loc>https://projava-code.github.io/collect-stream-into-immutable-collection/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/concurrentskiplistmap/</loc>
+		<loc>https://projava-code.github.io/concurrentskiplistmap/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-list-to-map/</loc>
+		<loc>https://projava-code.github.io/convert-list-to-map/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/create-list-with-single-element/</loc>
+		<loc>https://projava-code.github.io/create-list-with-single-element/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/create-unmodifiable-map-example/</loc>
+		<loc>https://projava-code.github.io/create-unmodifiable-map-example/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/difference-between-enumerator-and-iterator/</loc>
+		<loc>https://projava-code.github.io/difference-between-enumerator-and-iterator/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/different-ways-to-iterate-over-collections-in-java/</loc>
+		<loc>https://projava-code.github.io/different-ways-to-iterate-over-collections-in-java/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/hashmap-vs-hashtable/</loc>
+		<loc>https://projava-code.github.io/hashmap-vs-hashtable/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/compare-two-hashmaps/</loc>
+		<loc>https://projava-code.github.io/compare-two-hashmaps/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-map-to-array-list-set/</loc>
+		<loc>https://projava-code.github.io/convert-map-to-array-list-set/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/design-good-key-for-hashmap/</loc>
+		<loc>https://projava-code.github.io/design-good-key-for-hashmap/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-hashmap-works-in-java/</loc>
+		<loc>https://projava-code.github.io/how-hashmap-works-in-java/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/initialize-hashmap-examples/</loc>
+		<loc>https://projava-code.github.io/initialize-hashmap-examples/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-hashmap/</loc>
+		<loc>https://projava-code.github.io/java-hashmap/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-map/</loc>
+		<loc>https://projava-code.github.io/java-map/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-nested-map/</loc>
+		<loc>https://projava-code.github.io/java-nested-map/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/map-computeifabsent/</loc>
+		<loc>https://projava-code.github.io/map-computeifabsent/</loc>
 		<lastmod>2025-06-06T13:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-indexof-method/</loc>
+		<loc>https://projava-code.github.io/arraylist-indexof-method/</loc>
 		<lastmod>2025-06-06T13:06:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-lastindexof-example/</loc>
+		<loc>https://projava-code.github.io/arraylist-lastindexof-example/</loc>
 		<lastmod>2025-06-06T13:06:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-length-size/</loc>
+		<loc>https://projava-code.github.io/arraylist-length-size/</loc>
 		<lastmod>2025-06-06T13:06:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-listiterator/</loc>
+		<loc>https://projava-code.github.io/arraylist-listiterator/</loc>
 		<lastmod>2025-06-06T13:06:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-remove-example/</loc>
+		<loc>https://projava-code.github.io/arraylist-remove-example/</loc>
 		<lastmod>2025-06-06T13:06:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-removeall/</loc>
+		<loc>https://projava-code.github.io/arraylist-removeall/</loc>
 		<lastmod>2025-06-06T13:06:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-removeif/</loc>
+		<loc>https://projava-code.github.io/arraylist-removeif/</loc>
 		<lastmod>2025-06-06T13:06:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-replaceall-example/</loc>
+		<loc>https://projava-code.github.io/arraylist-replaceall-example/</loc>
 		<lastmod>2025-06-06T13:06:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-retainall-example/</loc>
+		<loc>https://projava-code.github.io/arraylist-retainall-example/</loc>
 		<lastmod>2025-06-06T13:06:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-spliterator-example/</loc>
+		<loc>https://projava-code.github.io/arraylist-spliterator-example/</loc>
 		<lastmod>2025-06-06T13:06:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-sublist/</loc>
+		<loc>https://projava-code.github.io/arraylist-sublist/</loc>
 		<lastmod>2025-06-06T13:06:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-vs-vector/</loc>
+		<loc>https://projava-code.github.io/arraylist-vs-vector/</loc>
 		<lastmod>2025-06-06T13:06:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arrays-aslist-vs-new-arraylist/</loc>
+		<loc>https://projava-code.github.io/arrays-aslist-vs-new-arraylist/</loc>
 		<lastmod>2025-06-06T13:06:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-get-method-example/</loc>
+		<loc>https://projava-code.github.io/arraylist-get-method-example/</loc>
 		<lastmod>2025-06-06T13:07:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/round-off-n-decimal-places/</loc>
+		<loc>https://projava-code.github.io/round-off-n-decimal-places/</loc>
 		<lastmod>2025-06-06T13:07:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/sourcepath-classpath-buildpath/</loc>
+		<loc>https://projava-code.github.io/sourcepath-classpath-buildpath/</loc>
 		<lastmod>2025-06-06T13:07:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/static-import-declarations-in-java/</loc>
+		<loc>https://projava-code.github.io/static-import-declarations-in-java/</loc>
 		<lastmod>2025-06-06T13:07:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/ternary-operator/</loc>
+		<loc>https://projava-code.github.io/ternary-operator/</loc>
 		<lastmod>2025-06-06T13:07:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/types-of-statements-in-java/</loc>
+		<loc>https://projava-code.github.io/types-of-statements-in-java/</loc>
 		<lastmod>2025-06-06T13:07:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/what-is-block-statement-in-java/</loc>
+		<loc>https://projava-code.github.io/what-is-block-statement-in-java/</loc>
 		<lastmod>2025-06-06T13:07:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/why-not-to-use-finalize-method-in-java/</loc>
+		<loc>https://projava-code.github.io/why-not-to-use-finalize-method-in-java/</loc>
 		<lastmod>2025-06-06T13:07:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/add-multiple-elements-arraylist/</loc>
+		<loc>https://projava-code.github.io/add-multiple-elements-arraylist/</loc>
 		<lastmod>2025-06-06T13:07:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/add-replace-element-at-index/</loc>
+		<loc>https://projava-code.github.io/add-replace-element-at-index/</loc>
 		<lastmod>2025-06-06T13:07:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/array-to-arraylist/</loc>
+		<loc>https://projava-code.github.io/array-to-arraylist/</loc>
 		<lastmod>2025-06-06T13:07:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-add-example/</loc>
+		<loc>https://projava-code.github.io/arraylist-add-example/</loc>
 		<lastmod>2025-06-06T13:07:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-addall-method-example/</loc>
+		<loc>https://projava-code.github.io/arraylist-addall-method-example/</loc>
 		<lastmod>2025-06-06T13:07:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-contains/</loc>
+		<loc>https://projava-code.github.io/arraylist-contains/</loc>
 		<lastmod>2025-06-06T13:07:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-ensurecapacity-method/</loc>
+		<loc>https://projava-code.github.io/arraylist-ensurecapacity-method/</loc>
 		<lastmod>2025-06-06T13:07:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/arraylist-foreach/</loc>
+		<loc>https://projava-code.github.io/arraylist-foreach/</loc>
 		<lastmod>2025-06-06T13:07:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-object-to-map/</loc>
+		<loc>https://projava-code.github.io/convert-object-to-map/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/data-types-in-java/</loc>
+		<loc>https://projava-code.github.io/data-types-in-java/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/difference-between-32-bit-java-vs-64-bit-java/</loc>
+		<loc>https://projava-code.github.io/difference-between-32-bit-java-vs-64-bit-java/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/difference-between-java-exe-and-javaw-exe/</loc>
+		<loc>https://projava-code.github.io/difference-between-java-exe-and-javaw-exe/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-make-a-java-class-immutable/</loc>
+		<loc>https://projava-code.github.io/how-to-make-a-java-class-immutable/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-view-generate-bytecode-for-a-java-class-file/</loc>
+		<loc>https://projava-code.github.io/how-to-view-generate-bytecode-for-a-java-class-file/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/install-java-on-64-bit-windows/</loc>
+		<loc>https://projava-code.github.io/install-java-on-64-bit-windows/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-classes-objects/</loc>
+		<loc>https://projava-code.github.io/java-classes-objects/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-classpath/</loc>
+		<loc>https://projava-code.github.io/java-classpath/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-cleaners/</loc>
+		<loc>https://projava-code.github.io/java-cleaners/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-comments/</loc>
+		<loc>https://projava-code.github.io/java-comments/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-hashcode-equals-methods/</loc>
+		<loc>https://projava-code.github.io/java-hashcode-equals-methods/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-hello-world-program/</loc>
+		<loc>https://projava-code.github.io/java-hello-world-program/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-introduction/</loc>
+		<loc>https://projava-code.github.io/java-introduction/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-is-pass-by-value-lets-see-how/</loc>
+		<loc>https://projava-code.github.io/java-is-pass-by-value-lets-see-how/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-keywords/</loc>
+		<loc>https://projava-code.github.io/java-keywords/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-math-abs-vs-absexact/</loc>
+		<loc>https://projava-code.github.io/java-math-abs-vs-absexact/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-naming-conventions/</loc>
+		<loc>https://projava-code.github.io/java-naming-conventions/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-system-properties/</loc>
+		<loc>https://projava-code.github.io/java-system-properties/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-tutorial/</loc>
+		<loc>https://projava-code.github.io/java-tutorial/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-variables/</loc>
+		<loc>https://projava-code.github.io/java-variables/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-wrapper-classes/</loc>
+		<loc>https://projava-code.github.io/java-wrapper-classes/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/jdk-jre-jvm/</loc>
+		<loc>https://projava-code.github.io/jdk-jre-jvm/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/little-endian-big-endian/</loc>
+		<loc>https://projava-code.github.io/little-endian-big-endian/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/main-method/</loc>
+		<loc>https://projava-code.github.io/main-method/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/math-divide-exact/</loc>
+		<loc>https://projava-code.github.io/math-divide-exact/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/operators-in-java/</loc>
+		<loc>https://projava-code.github.io/operators-in-java/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/pattern-matching-instanceof/</loc>
+		<loc>https://projava-code.github.io/pattern-matching-instanceof/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/primitive-data-types-in-java/</loc>
+		<loc>https://projava-code.github.io/primitive-data-types-in-java/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/printf-style-output-formatting/</loc>
+		<loc>https://projava-code.github.io/printf-style-output-formatting/</loc>
 		<lastmod>2025-06-06T13:07:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/array-contains-example/</loc>
+		<loc>https://projava-code.github.io/array-contains-example/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/array-remove-duplicate-elements/</loc>
+		<loc>https://projava-code.github.io/array-remove-duplicate-elements/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/array-vs-arraylist/</loc>
+		<loc>https://projava-code.github.io/array-vs-arraylist/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/check-sorted-array/</loc>
+		<loc>https://projava-code.github.io/check-sorted-array/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/checking-arrays-are-equal/</loc>
+		<loc>https://projava-code.github.io/checking-arrays-are-equal/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/concatenate-arrays/</loc>
+		<loc>https://projava-code.github.io/concatenate-arrays/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-between-array-of-primitives-and-objects/</loc>
+		<loc>https://projava-code.github.io/convert-between-array-of-primitives-and-objects/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-between-list-and-array/</loc>
+		<loc>https://projava-code.github.io/convert-between-list-and-array/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-between-stream-and-array/</loc>
+		<loc>https://projava-code.github.io/convert-between-stream-and-array/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-byte-array-string/</loc>
+		<loc>https://projava-code.github.io/convert-byte-array-string/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-primitive-array-to-list/</loc>
+		<loc>https://projava-code.github.io/convert-primitive-array-to-list/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-string-array-to-integer-array/</loc>
+		<loc>https://projava-code.github.io/convert-string-array-to-integer-array/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/copy-array-range/</loc>
+		<loc>https://projava-code.github.io/copy-array-range/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/find-max-min-arrays/</loc>
+		<loc>https://projava-code.github.io/find-max-min-arrays/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/finding-top-n-items/</loc>
+		<loc>https://projava-code.github.io/finding-top-n-items/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/initializing-array/</loc>
+		<loc>https://projava-code.github.io/initializing-array/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-arrays/</loc>
+		<loc>https://projava-code.github.io/java-arrays/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/join-string-array-example/</loc>
+		<loc>https://projava-code.github.io/join-string-array-example/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/print-array-elements/</loc>
+		<loc>https://projava-code.github.io/print-array-elements/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/removing-items-from-array/</loc>
+		<loc>https://projava-code.github.io/removing-items-from-array/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/resizing-array/</loc>
+		<loc>https://projava-code.github.io/resizing-array/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/reverse-an-array/</loc>
+		<loc>https://projava-code.github.io/reverse-an-array/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/solving-arraystoreexception/</loc>
+		<loc>https://projava-code.github.io/solving-arraystoreexception/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/intersection-between-arrays/</loc>
+		<loc>https://projava-code.github.io/intersection-between-arrays/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/intro-to-arrays/</loc>
+		<loc>https://projava-code.github.io/intro-to-arrays/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/java-array-clone-shallow-copy/</loc>
+		<loc>https://projava-code.github.io/java-array-clone-shallow-copy/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/split-arrays/</loc>
+		<loc>https://projava-code.github.io/split-arrays/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/string-to-string-array/</loc>
+		<loc>https://projava-code.github.io/string-to-string-array/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/sum-and-average-of-array/</loc>
+		<loc>https://projava-code.github.io/sum-and-average-of-array/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/union-between-two-arrays/</loc>
+		<loc>https://projava-code.github.io/union-between-two-arrays/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/builder-pattern-for-java-records/</loc>
+		<loc>https://projava-code.github.io/builder-pattern-for-java-records/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/command-line-args/</loc>
+		<loc>https://projava-code.github.io/command-line-args/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/compare-objects-without-getter/</loc>
+		<loc>https://projava-code.github.io/compare-objects-without-getter/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/convert-between-decimal-and-hexadecimal/</loc>
+		<loc>https://projava-code.github.io/convert-between-decimal-and-hexadecimal/</loc>
 		<lastmod>2025-06-06T13:07:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/usage-of-class-sun-misc-unsafe/</loc>
+		<loc>https://projava-code.github.io/usage-of-class-sun-misc-unsafe/</loc>
 		<lastmod>2025-06-06T13:07:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/calculate-average-of-n-numbers/</loc>
+		<loc>https://projava-code.github.io/calculate-average-of-n-numbers/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/check-deficient-number/</loc>
+		<loc>https://projava-code.github.io/check-deficient-number/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/check-harshad-number/</loc>
+		<loc>https://projava-code.github.io/check-harshad-number/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/check-palindrome-string/</loc>
+		<loc>https://projava-code.github.io/check-palindrome-string/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/check-pronic-number/</loc>
+		<loc>https://projava-code.github.io/check-pronic-number/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/console-input-output/</loc>
+		<loc>https://projava-code.github.io/console-input-output/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/correctly-compare-float-double/</loc>
+		<loc>https://projava-code.github.io/correctly-compare-float-double/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/could-not-find-or-load-main-class/</loc>
+		<loc>https://projava-code.github.io/could-not-find-or-load-main-class/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/count-vowels-consonants-in-string/</loc>
+		<loc>https://projava-code.github.io/count-vowels-consonants-in-string/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/determine-prime-number-efficiently/</loc>
+		<loc>https://projava-code.github.io/determine-prime-number-efficiently/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/disarium-number/</loc>
+		<loc>https://projava-code.github.io/disarium-number/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/examples/</loc>
+		<loc>https://projava-code.github.io/examples/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/find-first-n-prime-numbers/</loc>
+		<loc>https://projava-code.github.io/find-first-n-prime-numbers/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/find-prime-numbers-2-to-n/</loc>
+		<loc>https://projava-code.github.io/find-prime-numbers-2-to-n/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/happy-unhappy-numbers/</loc>
+		<loc>https://projava-code.github.io/happy-unhappy-numbers/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/how-to-reverse-words-in-string/</loc>
+		<loc>https://projava-code.github.io/how-to-reverse-words-in-string/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/internal-cache-wrapper-classes/</loc>
+		<loc>https://projava-code.github.io/internal-cache-wrapper-classes/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/program-to-add-two-integers/</loc>
+		<loc>https://projava-code.github.io/program-to-add-two-integers/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/remove-all-white-spaces-from-string/</loc>
+		<loc>https://projava-code.github.io/remove-all-white-spaces-from-string/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/set-classpath-command-line/</loc>
+		<loc>https://projava-code.github.io/set-classpath-command-line/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/sort-string-array-alphabetically/</loc>
+		<loc>https://projava-code.github.io/sort-string-array-alphabetically/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://projava.github.io/swap-two-numbers/</loc>
+		<loc>https://projava-code.github.io/swap-two-numbers/</loc>
 		<lastmod>2025-06-06T13:07:12+00:00</lastmod>
 	</url>
 </urlset>
