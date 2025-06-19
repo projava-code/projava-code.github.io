@@ -67,10 +67,10 @@ document.addEventListener("DOMContentLoaded", function () {
     const wrapper = document.createElement("div");
     wrapper.style.cssText = `
         position: fixed;
-        top: 100px;
+        top: 90px;
         ${side}: 0;
         z-index: 9999;
-        max-width: 400px;
+        max-width: 300px;
     `;
 
     const relativeContainer = document.createElement("div");
@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function () {
     `;
     closeBtn.style.cssText = `
         position: absolute;
-        top: 0;
+        top: -24px;
         right: 0;
         cursor: pointer;
         z-index: 10000;
