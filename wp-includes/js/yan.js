@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const maxAds = 5;
     let insertedAds = 0;
 
-    for (let i = 2; i < paragraphs.length && insertedAds < maxAds; i += 6) {
+    for (let i = 1; i < paragraphs.length && insertedAds < maxAds; i += 5) {
         const adId = `yandex_rtb_R-A-15940482-1-${insertedAds}`;
         const adContainer = document.createElement("div");
         adContainer.id = adId;
