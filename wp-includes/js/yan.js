@@ -15,7 +15,8 @@
 document.addEventListener("DOMContentLoaded", function () {
     const path = window.location.pathname;
     if (path === "/" || path.includes("category")) return;
-    // === 1. в абзацы ===
+
+    // === 1. В абзацы: R-A-15940482-1 ===
     const paragraphs = document.querySelectorAll("main p");
     const maxAds = 5;
     let insertedAds = 0;
@@ -52,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 
-    // === 3. Полноэкранный блок R-A-15940482-5 перед </body> ===
+    // === 3. Полноэкранный блок R-A-15940482-5 ===
     window.yaContextCb.push(() => {
         Ya.Context.AdvManager.render({
             blockId: "R-A-15940482-5",
@@ -61,52 +62,72 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 
-    // === 4 и 5. Прилипающие блоки R-A-15940482-3 (слева) и R-A-15940482-2 (справа) ===
+    // === 4 и 5. Прилипающие блоки (только на десктопе) ===
     if (window.innerWidth >= 1024) {
-    const createStickyAd = (id, blockId, side) => {
-    const wrapper = document.createElement("div");
-    wrapper.style.cssText = `
-        position: fixed;
-        top: 90px;
-        ${side}: 0;
-        z-index: 9999;
-        max-width: 300px;
-    `;
-    const relativeContainer = document.createElement("div");
-    relativeContainer.style.cssText = `
-        position: relative;
-        background: white;
-        box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    `;
+        const createStickyAd = (id, blockId, side) => {
+            const wrapper = document.createElement("div");
+            wrapper.style.cssText = `
+                position: fixed;
+                top: 90px;
+                ${side}: 0;
+                z-index: 9999;
+                max-width: 300px;
+            `;
 
-    const adContainer = document.createElement("div");
-    adContainer.id = id;
+            const relativeContainer = document.createElement("div");
+            relativeContainer.style.cssText = `
+                position: relative;
+                background: white;
+                box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            `;
 
-    const closeBtn = document.createElement("div");
-    closeBtn.innerHTML = `
-        <svg width="60" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M10.485 6.06A8 8 0 0118.246 0h23.508a8 8 0 017.76 6.06l3.728 14.91A4 4 0 0057.123 24H60 0h2.877a4 4 0 003.88-3.03l3.728-14.91z" fill="#D1D6E0"></path>
-            <path d="M24.793 6.793a1 1 0 000 1.414L28.586 12l-3.793 3.793a1 1 0 001.414 1.414L30 13.414l3.793 3.793a1 1 0 001.414-1.414L31.414 12l3.793-3.793a1 1 0 00-1.414-1.414L30 10.586l-3.793-3.793a1 1 0 00-1.414 0z" fill="#575C66"></path>
-        </svg>
-    `;
-    closeBtn.style.cssText = `
-        position: absolute;
-        top: -24px;
-        right: 0;
-        cursor: pointer;
-        z-index: 10000;
-    `;
-    closeBtn.onclick = () => wrapper.remove();
+            const adContainer = document.createElement("div");
+            adContainer.id = id;
 
-    relativeContainer.appendChild(adContainer);
-    relativeContainer.appendChild(closeBtn);
-    wrapper.appendChild(relativeContainer);
-    document.body.appendChild(wrapper);
+            const closeBtn = document.createElement("div");
+            closeBtn.innerHTML = `
+                <svg width="60" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M10.485 6.06A8 8 0 0118.246 0h23.508a8 8 0 017.76 6.06l3.728 14.91A4 4 0 0057.123 24H60 0h2.877a4 4 0 003.88-3.03l3.728-14.91z" fill="#D1D6E0"></path>
+                    <path d="M24.793 6.793a1 1 0 000 1.414L28.586 12l-3.793 3.793a1 1 0 001.414 1.414L30 13.414l3.793 3.793a1 1 0 001.414-1.414L31.414 12l3.793-3.793a1 1 0 00-1.414-1.414L30 10.586l-3.793-3.793a1 1 0 00-1.414 0z" fill="#575C66"></path>
+                </svg>
+            `;
+            closeBtn.style.cssText = `
+                position: absolute;
+                top: -24px;
+                right: 0;
+                cursor: pointer;
+                z-index: 10000;
+            `;
+            closeBtn.onclick = () => wrapper.remove();
 
-    window.yaContextCb.push(() => {
-        Ya.Context.AdvManager.render({
-            blockId: blockId,
-            renderTo: id
-        });
-    });
-};
+            relativeContainer.appendChild(adContainer);
+            relativeContainer.appendChild(closeBtn);
+            wrapper.appendChild(relativeContainer);
+            document.body.appendChild(wrapper);
+
+            // первичный рендер
+            window.yaContextCb.push(() => {
+                Ya.Context.AdvManager.render({
+                    blockId: blockId,
+                    renderTo: id
+                });
+            });
+
+            // перезагрузка по таймеру
+            const refreshInterval = blockId === "R-A-15940482-3" ? 35000 : 45000;
+            const reload = () => {
+                adContainer.innerHTML = "";
+                window.yaContextCb.push(() => {
+                    Ya.Context.AdvManager.render({
+                        blockId: blockId,
+                        renderTo: id
+                    });
+                });
+            };
+            setInterval(reload, refreshInterval);
+        };
+
+        createStickyAd("yandex_rtb_R-A-15940482-3", "R-A-15940482-3", "left");  // Левый
+        createStickyAd("yandex_rtb_R-A-15940482-2", "R-A-15940482-2", "right"); // Правый
+    }
+});
