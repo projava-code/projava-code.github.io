@@ -1,6 +1,5 @@
 (function() {
     // существующий код
-
     (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
     m[i].l=1*new Date();
     for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
@@ -14,11 +13,9 @@
     });
 })();
 document.addEventListener("DOMContentLoaded", function () {
-    // === Не показываем рекламу на главной и страницах с "category" ===
     const path = window.location.pathname;
     if (path === "/" || path.includes("category")) return;
-
-    // === 1. Встраиваемый блок R-A-15940482-1 в абзацы ===
+    // === 1. в абзацы ===
     const paragraphs = document.querySelectorAll("main p");
     const maxAds = 5;
     let insertedAds = 0;
@@ -66,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // === 4 и 5. Прилипающие блоки R-A-15940482-3 (слева) и R-A-15940482-2 (справа) ===
     if (window.innerWidth >= 1024) {
-        const createStickyAd = (id, blockId, side) => {
+    const createStickyAd = (id, blockId, side, refreshInterval = null) => {
     const wrapper = document.createElement("div");
     wrapper.style.cssText = `
         position: fixed;
@@ -76,7 +73,6 @@ document.addEventListener("DOMContentLoaded", function () {
         max-width: 400px;
     `;
 
-    // Контейнер с относительным позиционированием для размещения кнопки
     const relativeContainer = document.createElement("div");
     relativeContainer.style.cssText = `
         position: relative;
@@ -101,21 +97,29 @@ document.addEventListener("DOMContentLoaded", function () {
         cursor: pointer;
         z-index: 10000;
     `;
-    closeBtn.onclick = () => wrapper.remove();
+    closeBtn.onclick = () => {
+        clearInterval(refreshTimer);
+        wrapper.remove();
+    };
 
     relativeContainer.appendChild(adContainer);
     relativeContainer.appendChild(closeBtn);
     wrapper.appendChild(relativeContainer);
     document.body.appendChild(wrapper);
 
-    window.yaContextCb.push(() => {
-        Ya.Context.AdvManager.render({
-            blockId: blockId,
-            renderTo: id
+    const renderAd = () => {
+        adContainer.innerHTML = "";
+        window.yaContextCb.push(() => {
+            Ya.Context.AdvManager.render({
+                blockId: blockId,
+                renderTo: id
+            });
         });
-    });
-};
-        createStickyAd("yandex_rtb_R-A-15940482-3", "R-A-15940482-3", "left");
-        createStickyAd("yandex_rtb_R-A-15940482-2", "R-A-15940482-2", "right");
+    };
+
+    renderAd(); 
+    let refreshTimer;
+    if (refreshInterval) {
+        refreshTimer = setInterval(renderAd, refreshInterval);
     }
-});
+};
