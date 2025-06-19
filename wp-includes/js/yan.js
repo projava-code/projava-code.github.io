@@ -65,7 +65,11 @@ document.addEventListener("DOMContentLoaded", function () {
     // === 4 и 5. Прилипающие блоки (только на десктопе) ===
     if (window.innerWidth >= 1024) {
         const createStickyAd = (id, blockId, side) => {
-            const wrapper = document.createElement("div");
+    let wrapper = null;
+
+    const renderAd = () => {
+        if (!wrapper || !document.body.contains(wrapper)) {
+            wrapper = document.createElement("div");
             wrapper.style.cssText = `
                 position: fixed;
                 top: 90px;
@@ -104,29 +108,25 @@ document.addEventListener("DOMContentLoaded", function () {
             relativeContainer.appendChild(closeBtn);
             wrapper.appendChild(relativeContainer);
             document.body.appendChild(wrapper);
+        } else {
+            const adContainer = wrapper.querySelector(`#${id}`);
+            if (adContainer) adContainer.innerHTML = "";
+        }
 
-            // первичный рендер
-            window.yaContextCb.push(() => {
-                Ya.Context.AdvManager.render({
-                    blockId: blockId,
-                    renderTo: id
-                });
+        // Рендерим рекламу
+        window.yaContextCb.push(() => {
+            Ya.Context.AdvManager.render({
+                blockId: blockId,
+                renderTo: id
             });
-
-            // перезагрузка по таймеру
-            const refreshInterval = blockId === "R-A-15940482-3" ? 35000 : 45000;
-            const reload = () => {
-                adContainer.innerHTML = "";
-                window.yaContextCb.push(() => {
-                    Ya.Context.AdvManager.render({
-                        blockId: blockId,
-                        renderTo: id
-                    });
-                });
-            };
-            setInterval(reload, refreshInterval);
-        };
-
+        });
+    };
+    renderAd();
+    const refreshInterval = blockId === "R-A-15940482-3" ? 35000 : 45000;
+    setInterval(() => {
+        renderAd();
+    }, refreshInterval);
+};
         createStickyAd("yandex_rtb_R-A-15940482-3", "R-A-15940482-3", "left");  // Левый
         createStickyAd("yandex_rtb_R-A-15940482-2", "R-A-15940482-2", "right"); // Правый
     }
