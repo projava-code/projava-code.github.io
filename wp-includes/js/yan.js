@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // === 4 и 5. Прилипающие блоки R-A-15940482-3 (слева) и R-A-15940482-2 (справа) ===
     if (window.innerWidth >= 1024) {
-    const createStickyAd = (id, blockId, side, refreshInterval = null) => {
+    const createStickyAd = (id, blockId, side) => {
     const wrapper = document.createElement("div");
     wrapper.style.cssText = `
         position: fixed;
@@ -72,7 +72,6 @@ document.addEventListener("DOMContentLoaded", function () {
         z-index: 9999;
         max-width: 300px;
     `;
-
     const relativeContainer = document.createElement("div");
     relativeContainer.style.cssText = `
         position: relative;
@@ -97,29 +96,17 @@ document.addEventListener("DOMContentLoaded", function () {
         cursor: pointer;
         z-index: 10000;
     `;
-    closeBtn.onclick = () => {
-        clearInterval(refreshTimer);
-        wrapper.remove();
-    };
+    closeBtn.onclick = () => wrapper.remove();
 
     relativeContainer.appendChild(adContainer);
     relativeContainer.appendChild(closeBtn);
     wrapper.appendChild(relativeContainer);
     document.body.appendChild(wrapper);
 
-    const renderAd = () => {
-        adContainer.innerHTML = "";
-        window.yaContextCb.push(() => {
-            Ya.Context.AdvManager.render({
-                blockId: blockId,
-                renderTo: id
-            });
+    window.yaContextCb.push(() => {
+        Ya.Context.AdvManager.render({
+            blockId: blockId,
+            renderTo: id
         });
-    };
-
-    renderAd(); 
-    let refreshTimer;
-    if (refreshInterval) {
-        refreshTimer = setInterval(renderAd, refreshInterval);
-    }
+    });
 };
