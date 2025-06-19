@@ -14,7 +14,11 @@
     });
 })();
 document.addEventListener("DOMContentLoaded", function () {
-    // === 1. Блок R-A-15940482-1 ===
+    // === Не показываем рекламу на главной и страницах с "category" ===
+    const path = window.location.pathname;
+    if (path === "/" || path.includes("category")) return;
+
+    // === 1. Встраиваемый блок R-A-15940482-1 в абзацы ===
     const paragraphs = document.querySelectorAll("main p");
     const maxAds = 5;
     let insertedAds = 0;
@@ -35,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
         insertedAds++;
     }
 
-    // === 2. Блок R-A-15940482-4 ===
+    // === 2. Блок R-A-15940482-4 после </main> ===
     const main = document.querySelector("main");
     if (main) {
         const feedAdContainer = document.createElement("div");
@@ -51,7 +55,7 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 
-    // === 3. Блок R-A-15940482-5 (fullscreen) ===
+    // === 3. Полноэкранный блок R-A-15940482-5 перед </body> ===
     window.yaContextCb.push(() => {
         Ya.Context.AdvManager.render({
             blockId: "R-A-15940482-5",
@@ -60,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 
-    // === 4 и 5. Прилипающие блоки слева и справа ===
+    // === 4 и 5. Прилипающие блоки R-A-15940482-3 (слева) и R-A-15940482-2 (справа) ===
     if (window.innerWidth >= 1024) {
         const createStickyAd = (id, blockId, side) => {
             const wrapper = document.createElement("div");
@@ -69,9 +73,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 top: 100px;
                 ${side}: 0;
                 z-index: 9999;
-                display: flex;
-                flex-direction: ${side === "left" ? "row-reverse" : "row"};
-                align-items: flex-start;
+                max-width: 320px;
             `;
 
             const closeBtn = document.createElement("div");
@@ -82,6 +84,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 </svg>
             `;
             closeBtn.style.cssText = `
+                position: absolute;
+                top: 0;
+                right: 0;
                 cursor: pointer;
             `;
             closeBtn.onclick = () => wrapper.remove();
@@ -89,11 +94,13 @@ document.addEventListener("DOMContentLoaded", function () {
             const adContainer = document.createElement("div");
             adContainer.id = id;
             adContainer.style.cssText = `
-                max-width: 400px;
+                position: relative;
+                background: white;
+                box-shadow: 0 0 10px rgba(0,0,0,0.1);
             `;
 
+            adContainer.appendChild(closeBtn);
             wrapper.appendChild(adContainer);
-            wrapper.appendChild(closeBtn);
             document.body.appendChild(wrapper);
 
             window.yaContextCb.push(() => {
