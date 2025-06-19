@@ -67,50 +67,54 @@ document.addEventListener("DOMContentLoaded", function () {
     // === 4 и 5. Прилипающие блоки R-A-15940482-3 (слева) и R-A-15940482-2 (справа) ===
     if (window.innerWidth >= 1024) {
         const createStickyAd = (id, blockId, side) => {
-            const wrapper = document.createElement("div");
-            wrapper.style.cssText = `
-                position: fixed;
-                top: 100px;
-                ${side}: 0;
-                z-index: 9999;
-                max-width: 320px;
-            `;
+    const wrapper = document.createElement("div");
+    wrapper.style.cssText = `
+        position: fixed;
+        top: 100px;
+        ${side}: 0;
+        z-index: 9999;
+        max-width: 400px;
+    `;
 
-            const closeBtn = document.createElement("div");
-            closeBtn.innerHTML = `
-                <svg width="60" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M10.485 6.06A8 8 0 0118.246 0h23.508a8 8 0 017.76 6.06l3.728 14.91A4 4 0 0057.123 24H60 0h2.877a4 4 0 003.88-3.03l3.728-14.91z" fill="#D1D6E0"></path>
-                    <path d="M24.793 6.793a1 1 0 000 1.414L28.586 12l-3.793 3.793a1 1 0 001.414 1.414L30 13.414l3.793 3.793a1 1 0 001.414-1.414L31.414 12l3.793-3.793a1 1 0 00-1.414-1.414L30 10.586l-3.793-3.793a1 1 0 00-1.414 0z" fill="#575C66"></path>
-                </svg>
-            `;
-            closeBtn.style.cssText = `
-                position: absolute;
-                top: 0;
-                right: 0;
-                cursor: pointer;
-            `;
-            closeBtn.onclick = () => wrapper.remove();
+    // Контейнер с относительным позиционированием для размещения кнопки
+    const relativeContainer = document.createElement("div");
+    relativeContainer.style.cssText = `
+        position: relative;
+        background: white;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    `;
 
-            const adContainer = document.createElement("div");
-            adContainer.id = id;
-            adContainer.style.cssText = `
-                position: relative;
-                background: white;
-                box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            `;
+    const adContainer = document.createElement("div");
+    adContainer.id = id;
 
-            adContainer.appendChild(closeBtn);
-            wrapper.appendChild(adContainer);
-            document.body.appendChild(wrapper);
+    const closeBtn = document.createElement("div");
+    closeBtn.innerHTML = `
+        <svg width="60" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M10.485 6.06A8 8 0 0118.246 0h23.508a8 8 0 017.76 6.06l3.728 14.91A4 4 0 0057.123 24H60 0h2.877a4 4 0 003.88-3.03l3.728-14.91z" fill="#D1D6E0"></path>
+            <path d="M24.793 6.793a1 1 0 000 1.414L28.586 12l-3.793 3.793a1 1 0 001.414 1.414L30 13.414l3.793 3.793a1 1 0 001.414-1.414L31.414 12l3.793-3.793a1 1 0 00-1.414-1.414L30 10.586l-3.793-3.793a1 1 0 00-1.414 0z" fill="#575C66"></path>
+        </svg>
+    `;
+    closeBtn.style.cssText = `
+        position: absolute;
+        top: 0;
+        right: 0;
+        cursor: pointer;
+        z-index: 10000;
+    `;
+    closeBtn.onclick = () => wrapper.remove();
 
-            window.yaContextCb.push(() => {
-                Ya.Context.AdvManager.render({
-                    blockId: blockId,
-                    renderTo: id
-                });
-            });
-        };
+    relativeContainer.appendChild(adContainer);
+    relativeContainer.appendChild(closeBtn);
+    wrapper.appendChild(relativeContainer);
+    document.body.appendChild(wrapper);
 
+    window.yaContextCb.push(() => {
+        Ya.Context.AdvManager.render({
+            blockId: blockId,
+            renderTo: id
+        });
+    });
+};
         createStickyAd("yandex_rtb_R-A-15940482-3", "R-A-15940482-3", "left");
         createStickyAd("yandex_rtb_R-A-15940482-2", "R-A-15940482-2", "right");
     }
