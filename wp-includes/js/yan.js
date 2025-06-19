@@ -13,7 +13,6 @@
         accurateTrackBounce:true
     });
 })();
-
 document.addEventListener("DOMContentLoaded", function () {
     // === 1. Блок R-A-15940482-1 ===
     const paragraphs = document.querySelectorAll("main p");
@@ -36,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
         insertedAds++;
     }
 
-    // === 2. Блок R-A-15940482-4 (после </main>) ===
+    // === 2. Блок R-A-15940482-4 ===
     const main = document.querySelector("main");
     if (main) {
         const feedAdContainer = document.createElement("div");
@@ -52,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 
-    // === 3. Блок R-A-15940482-5 (fullscreen, перед </body>) ===
+    // === 3. Блок R-A-15940482-5 (fullscreen) ===
     window.yaContextCb.push(() => {
         Ya.Context.AdvManager.render({
             blockId: "R-A-15940482-5",
@@ -61,40 +60,46 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 
-    // === 4 и 5. Прилипающие блоки (слева и справа) ===
-    if (window.innerWidth >= 1024) { // Только на ПК
+    // === 4 и 5. Прилипающие блоки слева и справа ===
+    if (window.innerWidth >= 1024) {
         const createStickyAd = (id, blockId, side) => {
-            const container = document.createElement("div");
-            container.id = id;
-            container.style.cssText = `
+            const wrapper = document.createElement("div");
+            wrapper.style.cssText = `
                 position: fixed;
                 top: 100px;
                 ${side}: 0;
-                max-width: 400px;
                 z-index: 9999;
-                background: white;
-                box-shadow: 0 0 10px rgba(0,0,0,0.1);
+                display: flex;
+                flex-direction: ${side === "left" ? "row-reverse" : "row"};
+                align-items: flex-start;
             `;
 
             const closeBtn = document.createElement("div");
             closeBtn.innerHTML = `
                 <svg width="60" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M24.793 6.793a1 1 0 000 1.414L28.586 12l-3.793 3.793a1 1 0 001.414 1.414L30 13.414l3.793 3.793a1 1 0 001.414-1.414L31.414 12l3.793-3.793a1 1 0 00-1.414-1.414L30 10.586l-3.793-3.793a1 1 0 00-1.414 0z" fill="#575C66"/>
+                    <path d="M10.485 6.06A8 8 0 0118.246 0h23.508a8 8 0 017.76 6.06l3.728 14.91A4 4 0 0057.123 24H60 0h2.877a4 4 0 003.88-3.03l3.728-14.91z" fill="#D1D6E0"></path>
+                    <path d="M24.793 6.793a1 1 0 000 1.414L28.586 12l-3.793 3.793a1 1 0 001.414 1.414L30 13.414l3.793 3.793a1 1 0 001.414-1.414L31.414 12l3.793-3.793a1 1 0 00-1.414-1.414L30 10.586l-3.793-3.793a1 1 0 00-1.414 0z" fill="#575C66"></path>
                 </svg>
             `;
-            closeBtn.style.cssText = "position:absolute;top:0;right:0;cursor:pointer;padding:2px;";
-            closeBtn.onclick = () => container.remove();
-            container.appendChild(closeBtn);
+            closeBtn.style.cssText = `
+                cursor: pointer;
+            `;
+            closeBtn.onclick = () => wrapper.remove();
 
-            const adDiv = document.createElement("div");
-            adDiv.id = `inner-${id}`;
-            container.appendChild(adDiv);
-            document.body.appendChild(container);
+            const adContainer = document.createElement("div");
+            adContainer.id = id;
+            adContainer.style.cssText = `
+                max-width: 400px;
+            `;
+
+            wrapper.appendChild(adContainer);
+            wrapper.appendChild(closeBtn);
+            document.body.appendChild(wrapper);
 
             window.yaContextCb.push(() => {
                 Ya.Context.AdvManager.render({
                     blockId: blockId,
-                    renderTo: `inner-${id}`
+                    renderTo: id
                 });
             });
         };
