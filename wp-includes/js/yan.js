@@ -110,16 +110,18 @@ document.addEventListener("DOMContentLoaded", function () {
             document.body.appendChild(wrapper);
         } else {
             const adContainer = wrapper.querySelector(`#${id}`);
-            if (adContainer) adContainer.innerHTML = "";
+            if (adContainer) adContainer.innerHTML = "<a href="https://t.me/ChatGPT_General_Bot?start=ref8QkV" target="_blank" rel="noopener noreferrer">
+                        <img src="/wp-content/uploads/image09/ai.png" style="width:100%; height:auto; display:block;" />
+                    </a>";
         }
 
-        // Рендерим рекламу
+        /*/ Рендерим рекламу
         window.yaContextCb.push(() => {
             Ya.Context.AdvManager.render({
                 blockId: blockId,
                 renderTo: id
             });
-        });
+        });*/
     };
     renderAd();
     const refreshInterval = blockId === "R-A-15940482-3" ? 35000 : 45000;
