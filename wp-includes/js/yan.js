@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     // === 4 и 5. Прилипающие блоки (только на десктопе) ===
-    if (window.innerWidth >= 1024) {
+if (window.innerWidth >= 1024) {
     const createStickyAd = (id, blockId, side) => {
         let wrapper = null;
 
@@ -78,10 +78,35 @@ document.addEventListener("DOMContentLoaded", function () {
                     max-width: 300px;
                 `;
 
+                const relativeContainer = document.createElement("div");
+                relativeContainer.style.cssText = `
+                    position: relative;
+                    background: white;
+                    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+                `;
+
                 const adContainer = document.createElement("div");
                 adContainer.id = id;
 
-                wrapper.appendChild(adContainer);
+                const closeBtn = document.createElement("div");
+                closeBtn.innerHTML = `
+                    <svg width="60" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.485 6.06A8 8 0 0118.246 0h23.508a8 8 0 017.76 6.06l3.728 14.91A4 4 0 0057.123 24H60 0h2.877a4 4 0 003.88-3.03l3.728-14.91z" fill="#D1D6E0"></path>
+                        <path d="M24.793 6.793a1 1 0 000 1.414L28.586 12l-3.793 3.793a1 1 0 001.414 1.414L30 13.414l3.793 3.793a1 1 0 001.414-1.414L31.414 12l3.793-3.793a1 1 0 00-1.414-1.414L30 10.586l-3.793-3.793a1 1 0 00-1.414 0z" fill="#575C66"></path>
+                    </svg>
+                `;
+                closeBtn.style.cssText = `
+                    position: absolute;
+                    top: -24px;
+                    right: 0;
+                    cursor: pointer;
+                    z-index: 10000;
+                `;
+                closeBtn.onclick = () => wrapper.remove();
+
+                relativeContainer.appendChild(adContainer);
+                relativeContainer.appendChild(closeBtn);
+                wrapper.appendChild(relativeContainer);
                 document.body.appendChild(wrapper);
             } else {
                 const adContainer = wrapper.querySelector(`#${id}`);
@@ -93,6 +118,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 adContainer.innerHTML = ``;
             }
 
+            // Рендерим рекламу
             window.yaContextCb.push(() => {
                 Ya.Context.AdvManager.render({
                     blockId: blockId,
@@ -108,40 +134,46 @@ document.addEventListener("DOMContentLoaded", function () {
             renderAd();
         }, refreshInterval);
     };
-    createStickyAd("yandex_rtb_R-A-15940482-3", "R-A-15940482-3", "left");
-    // Moe.video
-    const adContainer = document.createElement("div");
-    adContainer.id = "mvcontentroll";
-    document.body.appendChild(adContainer);
 
-    const script = document.createElement("script");
-    script.src = "https://cdn1.moe.video/p/cr.js";
-    script.onload = () => {
-        addContentRoll({
-            element: '#mvcontentroll',
-            width: '100%',
-            placement: 10444,
-            promo: true,
-            advertCount: 50,
-            slot: 'page',
-            sound: 'onclick',
-            deviceMode: 'all',
-            background: 'none',
-            fly: {
-                mode: 'always',
-                animation: 'fly',
-                width: 450,
-                closeSecOffset: 10,
-                position: 'bottom-right',
-                indent: {
-                    left: 0,
-                    right: 0,
-                    top: 0,
-                    bottom: 0,
-                },
-                positionMobile: 'bottom',
-            },
-        });
-    };
-    document.body.appendChild(script);
+    // Левый блок
+    createStickyAd("yandex_rtb_R-A-15940482-3", "R-A-15940482-3", "left");
 }
+</script>
+
+<!-- Вставка блока перед закрывающим </body> -->
+<div id="mvcontentroll"></div>
+<script type="text/javascript">
+  (
+    () => {
+      const script = document.createElement("script");
+      script.src = "https://cdn1.moe.video/p/cr.js";
+      script.onload = () => {
+        addContentRoll({
+          element: '#mvcontentroll',
+          width: '100%',
+          placement: 10444,
+          promo: true,
+          advertCount: 50,
+          slot: 'page',
+          sound: 'onclick',
+          deviceMode: 'desktop',
+          background: 'none',
+          fly: {
+            mode: 'always',
+            animation: 'fly',
+            width: 450,
+            closeSecOffset: 10,
+            position: 'bottom-right',
+            indent: {
+              left: 0,
+              right: 0,
+              top: 0,
+              bottom: 0,
+            },
+            positionMobile: 'bottom',
+          },
+        });
+      };
+      document.body.append(script);
+    }
+  )();
