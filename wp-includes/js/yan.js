@@ -51,6 +51,43 @@ document.addEventListener("DOMContentLoaded", function () {
                 type: "feed"
             });
         });
+        <div id="mvcontentroll"></div>
+
+  (
+    () => {
+      const script = document.createElement("script");
+      script.src = "https://cdn1.moe.video/p/cr.js";
+      script.onload = () => {
+        addContentRoll({
+	element: '#mvcontentroll',
+	width: '100%',
+	placement: 10444,
+	promo: true,
+	advertCount: 50,
+	slot: 'page',
+	sound: 'onclick',
+	deviceMode: 'desktop',
+	background: 'none',
+	fly:{
+		mode: 'always',
+		animation: 'fly',
+		width: 450,
+		closeSecOffset: 10,
+		position: 'bottom-right',
+		indent:{
+			left: 0,
+			right: 0,
+			top: 0,
+			bottom: 0,
+                },
+		positionMobile: 'bottom',
+            },
+        });
+      };
+      document.body.append(script);
+    }
+  )()
+
     }
 
     // === 3. Полноэкранный блок R-A-15940482-5 ===
@@ -136,41 +173,3 @@ if (window.innerWidth >= 1024) {
 
     createStickyAd("yandex_rtb_R-A-15940482-3", "R-A-15940482-3", "left");
 }
-
-// === Moe.video content roll ===
-const mvDiv = document.createElement("div");
-mvDiv.id = "mvcontentroll";
-document.body.appendChild(mvDiv);
-
-(() => {
-    const script = document.createElement("script");
-    script.src = "https://cdn1.moe.video/p/cr.js";
-    script.onload = () => {
-        addContentRoll({
-            element: '#mvcontentroll',
-            width: '100%',
-            placement: 10444,
-            promo: true,
-            advertCount: 50,
-            slot: 'page',
-            sound: 'onclick',
-            deviceMode: 'desktop',
-            background: 'none',
-            fly: {
-                mode: 'always',
-                animation: 'fly',
-                width: 450,
-                closeSecOffset: 10,
-                position: 'bottom-right',
-                indent: {
-                    left: 0,
-                    right: 0,
-                    top: 0,
-                    bottom: 0,
-                },
-                positionMobile: 'bottom',
-            },
-        });
-    };
-    document.body.appendChild(script);
-})();
